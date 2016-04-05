@@ -1,0 +1,3274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chronosly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Aug 12 2014 19:38:23 GMT+0200 (Hora de verano "
+"romance)\n"
+"PO-Revision-Date: Tue Sep 29 2015 19:36:36 GMT+0200 (CEST)\n"
+"Last-Translator: admin2 <aitor.parrillas@gmail.com>\n"
+"Language-Team: \n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: es_ES"
+
+#: ../languages/custom_strings.php:3
+msgid "from "
+msgstr "Desde "
+
+#: ../languages/custom_strings.php:4
+msgid "From "
+msgstr "Desde "
+
+#: ../languages/custom_strings.php:5
+msgid "Organized by "
+msgstr "Organizado por "
+
+#: ../languages/custom_strings.php:7
+msgid "Buy "
+msgstr "Comprar"
+
+#: ../languages/custom_strings.php:8
+msgid "Open map"
+msgstr "Abrir mapa "
+
+#: ../languages/custom_strings.php:9
+msgid "View "
+msgstr "Ver"
+
+#: ../init.php:54
+msgid "Organizers and Places settings"
+msgstr "Configuración Organizadores y Lugares"
+
+#: ../init.php:68
+msgid "License & Updates"
+msgstr "Licencias y Actualizaciones"
+
+#: ../init.php:69
+msgid "License key for updates"
+msgstr "Número de licencia para actualizaciones"
+
+#: ../init.php:70
+msgid ""
+"provide the license sent to your email for alowing future updates of this "
+"addon"
+msgstr ""
+"inserte el número de licencia, facilitado por email, para poder disponer de "
+"futuras actualizaciones del addon"
+
+#: ../init.php:71
+msgid "Enable auto update"
+msgstr "Activar actualizaciones automáticas"
+
+#: ../metaboxes/chronosly_vars_metabox.php:1 ..
+#: metaboxes/chronosly_cat_vars_metabox.php:2 ../post-types/post_type_chronosly.
+#: php:1937 ../post-types/post_type_chronosly.php:2062
+msgid "Featured"
+msgstr "Destacada"
+
+#: ../metaboxes/chronosly_vars_metabox.php:2 ..
+#: metaboxes/chronosly_cat_vars_metabox.php:3 ../metaboxes/marketplace/templates.
+#: php:17 ../metaboxes/marketplace/addons.php:13 ../post-
+#: types/post_type_chronosly.php:1941 ../post-types/post_type_chronosly.php:2063
+msgid "Order"
+msgstr "Orden"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:2 ..
+#: metaboxes/chronosly_places_metabox.php:20 ../classes/chronosly_dad_elements.
+#: php:4113
+msgid "Address"
+msgstr "Dirección"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:3 ..
+#: metaboxes/chronosly_places_metabox.php:21 ../classes/chronosly_dad_elements.
+#: php:3878
+msgid "City"
+msgstr "Ciudad"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:4 ..
+#: metaboxes/chronosly_places_metabox.php:22
+msgid "Country"
+msgstr "País"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:5 ..
+#: metaboxes/chronosly_places_metabox.php:23
+msgid "State"
+msgstr "Estado"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:6 ..
+#: metaboxes/chronosly_places_metabox.php:24 ../classes/chronosly_dad_elements.
+#: php:3986
+msgid "Postal Code"
+msgstr "Código postal"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:7
+msgid "Lat. & Long."
+msgstr "Lat. y Long."
+
+#: ../metaboxes/chronosly_places_details_metabox.php:8 ..
+#: metaboxes/chronosly_places_metabox.php:25 ..
+#: metaboxes/chronosly_organizer_metabox.php:19 ..
+#: metaboxes/chronosly_organizer_details_metabox.php:2 ..
+#: classes/chronosly_dad_elements.php:3094 ../classes/chronosly_dad_elements.php:
+#: 3575
+msgid "Phone"
+msgstr "Teléfono"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:9 ..
+#: metaboxes/chronosly_places_metabox.php:26 ..
+#: metaboxes/chronosly_organizer_metabox.php:20 ..
+#: metaboxes/chronosly_organizer_details_metabox.php:3
+msgid "Mail"
+msgstr "eMail"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:10 ..
+#: metaboxes/chronosly_places_metabox.php:27 ..
+#: metaboxes/chronosly_organizer_metabox.php:21 ..
+#: metaboxes/chronosly_organizer_details_metabox.php:4 ..
+#: classes/chronosly_dad_elements.php:3204 ../classes/chronosly_dad_elements.php:
+#: 3685 ../classes/chronosly_dad_elements.php:3723
+msgid "Web"
+msgstr "Web"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:16
+msgid ""
+"Guided process do step by step letting you to confirm or update all "
+"templates and views"
+msgstr ""
+"Proceso guiado para que paso a paso se pueda confirmar o actualizar todas "
+"las plantillas y vistas"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:17
+msgid ""
+"Auto Update do the job for you, but this is not full suported on custom "
+"edited templates that could need your work"
+msgstr ""
+"Las Actualizaciones Automáticas hacen el trabajo por ti, de todos modos, las "
+"plantillas modificadas por los usuarios no soportan dichas Actualizaciones "
+"Automáticasque necesitan que se haga manualmente"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:18
+msgid ""
+"For the single edited templates (previously edited directly inside the "
+"events page)  you can also update template using the new drag and drop "
+"'Share' bubble"
+msgstr ""
+"Para las plantillas individuales (modificadas directamente dentro de las "
+"páginas de eventos) también se pueden actualizar usando la nueva función "
+"Drag & Drop de la opción 'Compartir'"
+
+#: ../metaboxes/chronosly_cat_vars_metabox.php:1
+msgid "Category color"
+msgstr "Color de Categoría"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:34
+msgid ""
+"Add box to template.\n"
+"A box let you group elements to style, like background of specific block or "
+"other effects like box hide/show"
+msgstr ""
+"Añade una caja a la plantilla.\n"
+"Las cajas permiten agrupar los elementos a un mismo estilo, como el fondo de "
+"un bloque específico u otros efectos como ocultar/mostrar una caja."
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:34
+msgid "Add box"
+msgstr "Añadir una caja"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:36
+msgid ""
+"Show/hide all hidden boxes, like if one user clicks on read more with 'show "
+"hidden boxes' action"
+msgstr ""
+"Mostrar/ocultar todas las cajas ocultas, por ejemplo si un usuario hace "
+"click sobre Leer más con la acción de \"mostrar cajas ocultas\""
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:36
+msgid "Hidden boxes"
+msgstr "Cajas ocultas"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:37
+msgid "Show/hide featured boxes to style the featured template"
+msgstr "Mostrar/ocultar"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:37
+msgid "Featured style"
+msgstr "Estilo Destacado"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:38
+msgid "Hidde demo content, lorem ipsum, to show the real content in frontend"
+msgstr ""
+"Ocultar el contenido de demostración, lorem ipsum, para mostrar el contenido "
+"real que se mostraría en el frontend"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:38
+msgid "Remove lorem ipsum"
+msgstr "Quitar lorem ipsum"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:40
+msgid "Remove all content of this template, to start a blank new page"
+msgstr "Quitar todo el contenido de la plantilla, para empezar una nueva en blanco"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:40
+msgid "Remove all content"
+msgstr "Quitar todo el contenido"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:53 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:122
+msgid "Box type"
+msgstr "Tipo de caja"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:53 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:122
+msgid "Normal, hide when click on readmore with slide action"
+msgstr "Normal, ocultar cuando se haga click sobre un leermás con acción 'slide'"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:53 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:122
+msgid "Hidden, show when click on readmore with slide action"
+msgstr "Oculto, mostrar cuando se haga click sobre un leermás con acción 'slide'"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:53 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:122
+msgid "Show always"
+msgstr "Mostrar siempre"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:54 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:123
+msgid "Box class"
+msgstr "Clase de caja"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:55 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:124
+msgid "Featured box"
+msgstr "Caja destacada"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:165
+msgid "Align left"
+msgstr "Alineado izquierda"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:165
+msgid "Aling right"
+msgstr "Alineado derecha"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:165
+msgid "New line"
+msgstr "Nueva linea"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:167
+msgid "Move up this box one position"
+msgstr "Ascender esta caja una posición"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:167
+msgid "Box up"
+msgstr "Caja arriba"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:168
+msgid "Move down this box one position"
+msgstr "Descender esta caja una posición"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:168
+msgid "Box down"
+msgstr "Caja abajo"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:169
+msgid ""
+"Reset the width of item to default, useful when we have edited the size of "
+"the item and want to return back"
+msgstr ""
+"Restablecer el ancho del elemento a valores por defecto. Muy útil cuando se "
+"haya editado el tamaño del elemento y se quiera deshacer los cambios."
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:169
+msgid "Default"
+msgstr "Por defecto"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:170
+msgid ""
+"Automatically adjusts an item width according to its content so that it fits "
+"with the rest of items in the Template"
+msgstr ""
+"Automáticamente ajusta el ancho de un elemento según su contenido, por tanto,"
+" se adapta al ancho juntamente con el resto de los elemento que contiene la "
+"Plantilla"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:170
+msgid "Adjust"
+msgstr "Ajustar"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:171
+msgid ""
+"Create a copy of selected item with the same values and settings as the "
+"original"
+msgstr ""
+"Crea una copia del elemento seleccionado con el mismo valor y configuración "
+"que el elemento original copiado"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:171
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:172
+msgid "Copy style of a selected item"
+msgstr "Copia el estilo del elemento seleccionado"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:172
+msgid "Copy style"
+msgstr "Copiar estilo"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:173
+msgid ""
+"Paste style on a selected item.<br/>Before pastying the style, it should be "
+"copied from another item (Copy Style)"
+msgstr ""
+"Pega estilo del portapapeles sobre un elemento seleccionado.<br/>Antes de "
+"pegar el estilo, éste debe ser copiado de otro elemento (Copiar estilo)"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:173
+msgid "Paste style"
+msgstr "Pegar estilo"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:174
+msgid "Delete selected item"
+msgstr "Eliminar elemento seleccionado"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:174 ..
+#: classes/chronosly_settings.php:456
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:176
+msgid "Variables"
+msgstr "Variables"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:188 ..
+#: classes/chronosly_paint.php:420
+msgid "Custom css"
+msgstr "CSS personalizado"
+
+#: ../metaboxes/chronosly_places_metabox.php:15 ..
+#: metaboxes/chronosly_places_metabox.php:29
+msgid "Add new Place"
+msgstr "Añadir nuevo Lugar"
+
+#: ../metaboxes/chronosly_places_metabox.php:17 ..
+#: metaboxes/chronosly_organizer_metabox.php:15 ..
+#: metaboxes/marketplace/templates.php:24 ../metaboxes/marketplace/addons.php:20
+#: ../classes/chronosly_dad_elements.php:2863 ../classes/chronosly_dad_elements.
+#: php:3343 ../classes/chronosly_dad_elements.php:4984
+msgid "Name"
+msgstr "Nombre"
+
+#: ../metaboxes/chronosly_places_metabox.php:18 ..
+#: metaboxes/chronosly_organizer_metabox.php:16
+msgid "More details"
+msgstr "Más detalles"
+
+#: ../metaboxes/chronosly_organizer_metabox.php:13 ..
+#: metaboxes/chronosly_organizer_metabox.php:23
+msgid "Add new Organizer"
+msgstr "Añadir nuevo Organizador"
+
+#: ../metaboxes/chronosly_date_metabox.php:2 ../post-types/post_type_chronosly.
+#: php:1837 ../post-types/post_type_chronosly.php:1960 ..
+#: classes/chronosly_dad_elements.php:5089
+msgid "From"
+msgstr "Desde"
+
+#: ../metaboxes/chronosly_date_metabox.php:4 ../metaboxes/chronosly_date_metabox.
+#: php:11 ../post-types/post_type_chronosly.php:1962 ../post-
+#: types/post_type_chronosly.php:1969
+msgid "Hour"
+msgstr "Hora"
+
+#: ../metaboxes/chronosly_date_metabox.php:9 ../post-types/post_type_chronosly.
+#: php:1838 ../post-types/post_type_chronosly.php:1967
+msgid "To"
+msgstr "A"
+
+#: ../metaboxes/chronosly_date_metabox.php:16 ../post-types/post_type_chronosly.
+#: php:1866 ../post-types/post_type_chronosly.php:1974
+msgid "Repeat"
+msgstr "Repetir"
+
+#: ../metaboxes/chronosly_date_metabox.php:18 ../post-types/post_type_chronosly.
+#: php:1976
+msgid "Never (Not a recurring event)"
+msgstr "Nunca (No es un evento recurrente)"
+
+#: ../metaboxes/chronosly_date_metabox.php:19 ../post-types/post_type_chronosly.
+#: php:1977
+msgid "Every day"
+msgstr "Cada día"
+
+#: ../metaboxes/chronosly_date_metabox.php:20 ../post-types/post_type_chronosly.
+#: php:1978
+msgid "Every week"
+msgstr "Cada semana"
+
+#: ../metaboxes/chronosly_date_metabox.php:21 ../post-types/post_type_chronosly.
+#: php:1979
+msgid "Every month"
+msgstr "Cada mes"
+
+#: ../metaboxes/chronosly_date_metabox.php:22 ../post-types/post_type_chronosly.
+#: php:1980
+msgid "Every year"
+msgstr "Cada año"
+
+#: ../metaboxes/chronosly_date_metabox.php:30 ../post-types/post_type_chronosly.
+#: php:1988
+msgid "Repeat every"
+msgstr "Repetir cada"
+
+#: ../metaboxes/chronosly_date_metabox.php:33 ../post-types/post_type_chronosly.
+#: php:1732
+msgid "days"
+msgstr "días"
+
+#: ../metaboxes/chronosly_date_metabox.php:34 ../post-types/post_type_chronosly.
+#: php:1733
+msgid "weeks"
+msgstr "semanas"
+
+#: ../metaboxes/chronosly_date_metabox.php:35 ../post-types/post_type_chronosly.
+#: php:1734
+msgid "months"
+msgstr "meses"
+
+#: ../metaboxes/chronosly_date_metabox.php:36
+msgid "years"
+msgstr "años"
+
+#: ../metaboxes/chronosly_date_metabox.php:41 ../post-types/post_type_chronosly.
+#: php:1993
+msgid "End of repeat"
+msgstr "Final de la repetición"
+
+#: ../metaboxes/chronosly_date_metabox.php:43 ../post-types/post_type_chronosly.
+#: php:1995
+msgid "never"
+msgstr "nunca"
+
+#: ../metaboxes/chronosly_date_metabox.php:44 ../post-types/post_type_chronosly.
+#: php:1996
+msgid "by date"
+msgstr "por fecha"
+
+#: ../metaboxes/chronosly_date_metabox.php:45 ../post-types/post_type_chronosly.
+#: php:1997
+msgid "by number"
+msgstr "por número"
+
+#: ../metaboxes/chronosly_date_metabox.php:52 ../post-types/post_type_chronosly.
+#: php:2004 ../classes/chronosly_dad_elements.php:2492
+msgid "End date"
+msgstr "Fecha final"
+
+#: ../metaboxes/chronosly_date_metabox.php:58 ../post-types/post_type_chronosly.
+#: php:2010
+msgid "Number of repeats"
+msgstr "Número de repeticiones"
+
+#: ../metaboxes/chronosly_date_metabox.php:64
+msgid ""
+"If you choose to repeat an event, more options will appear such as repeating "
+"the event over a period time, either in days, weeks or years. These new "
+"options will allow you to set the end of the repetitions, by setting an "
+"exact end date o a definite number of repetitions, for examples the event to "
+"be repeated twice."
+msgstr ""
+"Si uno de los eventos tiene repetición, aparecerán nuevas opciones como la "
+"elección del periodo de tiempo de repetición en días, semanas o años. Estas "
+"nuevas opciones también permiten establecer cuándo terminarán las "
+"repeticiones, ya sea con una fecha exacta o definiendo el número de "
+"repeticiones."
+
+#: ../metaboxes/chronosly_date_metabox.php:65
+msgid ""
+"Note: Chronosly does not allow certain repetitions to be set. If the number "
+"of days with events is over a week o a month, the system does not allow the "
+"event to be published. E.g. if you create 8-days events, these can not be "
+"repeated weekly. 32-days events can not be set with weekly or monthly "
+"repetition."
+msgstr ""
+"Nota: Chronosly no permite según que tipo de repeticiones ya que no tienen "
+"lógica. Por ejemplo, si el número de días con eventos es más de una semana o "
+"mes, el sistema no permite que el evento sea publicado. \n"
+"Por ejemplo, si se crean eventos superiores a 8 días, estos no pueden ser "
+"repetitivos cada semana. Si son eventos de de más de 31 días, estos no se "
+"pueden configurar para que se repitan de forma semanal o mensual."
+
+#: ../metaboxes/chronosly_date_metabox.php:66
+msgid ""
+"It is possible to set 2-days events with daily repetitions. In this case the "
+"event would be repeated every 2 days."
+msgstr ""
+"Es posible configurar eventos de 2 días con repeticiones diarias. En este "
+"caso, el evento se repetiría cada 2 días."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:3 ..
+#: metaboxes/chronosly_tickets_metabox.php:27 ../classes/chronosly_dad_elements.
+#: php:5074
+msgid "Sold Out"
+msgstr "Agotadas"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:4 ..
+#: metaboxes/chronosly_tickets_metabox.php:28
+msgid "Sale"
+msgstr "Oferta"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:5 ..
+#: metaboxes/chronosly_tickets_metabox.php:29
+msgid "edit"
+msgstr "editar"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:5 ..
+#: metaboxes/chronosly_tickets_metabox.php:29
+msgid "delete"
+msgstr "borrar"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:15
+msgid "Title"
+msgstr "Título"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:15 ..
+#: metaboxes/marketplace/templates.php:20 ../metaboxes/marketplace/addons.php:16
+#: ../post-types/post_type_chronosly.php:1804 ../classes/chronosly_dad_elements.
+#: php:4272 ../classes/chronosly_dad_elements.php:5038
+msgid "Price"
+msgstr "Precio"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:15
+msgid "Sale Price"
+msgstr "Precio Oferta"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:15 ..
+#: classes/chronosly_dad_elements.php:4273 ../classes/chronosly_dad_elements.php:
+#: 5126
+msgid "Capacity"
+msgstr "Aforo"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:15
+msgid "Link"
+msgstr "Enlace"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:44
+msgid "Add ticket"
+msgstr "Añadir ticket"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:46
+msgid ""
+"Manage all your event tickets and registrations. Show all important details "
+"about your event tickets, such as number of tickets available, price, "
+"capacity and much more."
+msgstr ""
+"Administra todas tus entradas y procesos de registro para tus eventos. "
+"Muestra información relevante de tus entradas, tal como número de entradas "
+"disponibles, precio, aforo y muchas más."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:47
+msgid ""
+"TITLE: Create the name of your ticket type. Give a descriptive name to "
+"ensure you can distinguish between them when you define capacity and "
+"availability."
+msgstr ""
+"TÍTULO: Crea el nombre del tipo de entrada. Se recomienda asignar un nombre "
+"descriptivo para asegurarte poder distinguirlos a posteriori una vez se haya "
+"definido el aforo y la disponibilidad de entradas."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:48
+msgid "PRICE: Show ticket prices, also change currency and availability"
+msgstr ""
+"PRECIO: Muestra el precio de tus entradas, también se puede definir la "
+"Moneda en que se venden y su disponibilidad"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:49
+msgid "SALE PRICE: Set discounted price for the ticket, enable checking on sale."
+msgstr ""
+"Precio Oferta: si se establece precio de ticket en oferta se podrá activar "
+"la opción de ticket en oferta."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:50
+msgid "SALE: Active sale price"
+msgstr "Oferta: Activa precio de descuento"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:51
+msgid "SOLD OUT: Set ticket sold out"
+msgstr "SOLD OUT: Entradas agotadas"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:52
+msgid ""
+"CAPACITY: Provide detailed information about the maximum number of tickets "
+"that can be sold at your event. This set is important to avoid overbooking "
+"your event."
+msgstr ""
+"CAPACIDAD: Introduce información detallada sobre el número máximo de "
+"entradas (aforo) que se pueden vender para tu evento. Esta información es "
+"útil para evitar overbooking."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:54
+msgid ""
+"MIN.: Provide detailed information about the minimum number of tickets that "
+"can be can be purchased by each user. This set-up is used to ensure your "
+"events are accessible to as many users as possible, also to avoid the resale "
+"of ticket"
+msgstr ""
+"MÍN.: Introduce información detallada sobre el número mínimo de entradas que "
+"se pueden vender para tu evento. Esta información es útil para asegurarse de "
+"repartir las entradas entre el mayor número de usuarios, pero también para "
+"evitar la reventa de entradas."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:55
+msgid ""
+"MAX.: Provide detailed information about the maximum number of tickets that "
+"can be can be purchased by each user. This set-up is used to ensure your "
+"events are accessible to as many users as possible, also to avoid the resale "
+"of tickets."
+msgstr ""
+"Introduce información detallada sobre el número máximo de entradas que se "
+"pueden vender para tu evento. Esta información es útil para asegurarse de "
+"repartir las entradas entre el mayor número de usuarios, pero también para "
+"evitar la reventa de entradas."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:56
+msgid "FROM: Set ticket sales start date."
+msgstr "DESDE: Fecha de inicio de la venta de entradas"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:57
+msgid "TO: Set ticket sales end date."
+msgstr "HASTA: Fecha final de la venta de entradas"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:58
+msgid "LINK: Add an external link to your selling tickets website or platform."
+msgstr ""
+"LINK: Añade un enlace externo hacia la página web o plataforma de venta de "
+"entradas."
+
+#: ../metaboxes/marketplace/templates.php:9
+msgid "Download Custom Templates, choose and apply"
+msgstr "Descárgate Plantillas Personalizadas, selecciona y cárgala, es muy fácil"
+
+#: ../metaboxes/marketplace/templates.php:10
+msgid ""
+"Chronosly is designed to be easy for all users. Customized Templates can be "
+"chosen to better fit your web site."
+msgstr ""
+"Chronosly está diseñado para que sea muy fácil para todos los usuarios. Las "
+"Plantillas Personalizadas pueden ayudarte a que el plugin se adapte mejor a "
+"tu sitio web."
+
+#: ../metaboxes/marketplace/templates.php:21 ../metaboxes/marketplace/addons.php:17
+msgid "Popular"
+msgstr "Popular"
+
+#: ../metaboxes/marketplace/templates.php:22 ../metaboxes/marketplace/addons.php:18
+msgid "Best rated"
+msgstr "Mejor valorado"
+
+#: ../metaboxes/marketplace/templates.php:23 ../metaboxes/marketplace/addons.php:19
+msgid "Newer"
+msgstr "Más reciente"
+
+#: ../metaboxes/marketplace/addons.php:6
+msgid "Addons - Chronosly extended features"
+msgstr "Addons - Amplia las prestaciones de Chronosly"
+
+#: ../metaboxes/marketplace/addons.php:7
+msgid ""
+"Chronosly addons allow to extend the basic funcionalities for the WordPress "
+"event calendar plugin, like social media sharing, rating and reviews, "
+"Evebtbrite ticketing, importing from Google Calendar or Facebook and much "
+"more."
+msgstr ""
+"Los addons permiten ampliar las funcionalidades básicas de Chronosly, por "
+"ejemplo permitir a tu audiencia compartir tus eventos mediante botones de "
+"redes sociales, que dejen comentarios y hagan valoraciones, permitir "
+"conectar fácilmente con Eventbrite, importar los evento de Google Calendar o "
+"Facebook, y muchas más..."
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:5 ..
+#: metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:5 ..
+#: metaboxes/dad9/chronosly_places_dad9_select_metabox.php:5 ..
+#: metaboxes/dad1/chronosly_dad1_select_metabox.php:5
+msgid "Load template"
+msgstr "Cargar plantilla"
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:15 ..
+#: metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:14 ..
+#: metaboxes/dad9/chronosly_places_dad9_select_metabox.php:15 ..
+#: metaboxes/dad1/chronosly_dad1_select_metabox.php:15
+msgid "Select view"
+msgstr "Seleccionar vista"
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:23
+msgid "A view is how the category is shown in each website navigation section."
+msgstr "Una vista es como se muestra una categoría en cada sección de la web"
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:24
+msgid ""
+"It allows you to thoroughly customize how each category behaves in each "
+"section."
+msgstr ""
+"Permite una total personalización de cómo cada categoría se comporta para "
+"cada sección."
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:28
+msgid "In your website the categories have 2 different views"
+msgstr "En tu web las categorías disponen de 2 vistas diferentes"
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:30
+msgid ""
+"1- General View: customize how the category is displayed in the categories "
+"list"
+msgstr ""
+"1- Vista General: personaliza como se mostrará cada categoría en la lista de "
+"categorías"
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:32
+msgid ""
+"2- Inner page view: it is the inner view of the category, a single page on "
+"the category, where all the information is shown"
+msgstr ""
+"2- Vista interior: es la vista interior de la categoría, una página "
+"individual para la categoría, donde se muestra dicha categoría con todos los "
+"detalles que se quiera."
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:22
+msgid "A view is how the organizer is shown in each website navigation section."
+msgstr "Una vista es como se muestra un organizador en cada sección de la web"
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:23
+msgid ""
+"It allows you to thoroughly customize how each organizer behaves in each "
+"section"
+msgstr ""
+"Permite una total personalización de cómo cada organizador se comporta para "
+"cada sección."
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:27
+msgid "In your website the organizers have 2 different views"
+msgstr "En tu web los organizadores disponen de 2 vistas diferentes"
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:29
+msgid ""
+"1- General View: customize how the organizer is displayed in the list of "
+"organizers"
+msgstr ""
+"1- Vista General: personaliza como se mostrará cada categoría en la lista de "
+"organizadores"
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:31
+msgid ""
+"2- Inner page view: it is the inner view of your organizer, a single page on "
+"the organizer, where all the information is shown."
+msgstr ""
+"2- Vista interior: es la vista interior del organizador, una página "
+"individual para el organizador, donde se muestra dicho organizador con todos "
+"los detalles que se quiera."
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:23
+msgid "A view is how the place is shown in each website navigation section."
+msgstr "Una vista es como se muestra un lugar en cada sección de la web"
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:24
+msgid "It allows you to thoroughly customize how each place behaves in each section."
+msgstr ""
+"Permite una total personalización de cómo cada lugar se comporta para cada "
+"sección."
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:28
+msgid "In your website the places have 2 different views"
+msgstr "En tu web los lugares disponen de 2 vistas diferentes"
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:30
+msgid "1- General View: customize how the place is displayed in the places list"
+msgstr ""
+"1- Vista General: personaliza como se mostrará cada categoría en la lista de "
+"lugares"
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:32
+msgid ""
+"2- Inner page view: it is the inner view of your place, a single page on the "
+"place, where all the information is shown"
+msgstr ""
+"2- Vista interior: es la vista interior del lugar, una página individual "
+"para cada lugar, donde se muestra dicho lugar con todos los detalles que se "
+"quiera."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:23
+msgid "A view is how your event is shown in each website navigation section."
+msgstr "Una vista es como un evento se muestra en cada sección de la página web."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:24
+msgid "It allows you to thoroughly customize how each event behaves in each section."
+msgstr ""
+"Esta opción permite personalizar el comportamiento de los eventos en cada "
+"una de las secciones."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:28
+msgid ""
+"In your website, events have 6 different views, even if the 2 first ones are "
+"the most important (General View, and Inner page View)"
+msgstr ""
+"En tu sitio web, los eventos tienen 6 vistas diferentes, de todos modos, las "
+"2 primeras son las más importantes (Vista General, Vista Evento individual)"
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:30
+msgid "1- General View: it is the main view where all the events are displayed"
+msgstr ""
+"1- Vista General: es la vista principal en la que se muestran todos los "
+"eventos"
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:32
+msgid ""
+"2- Inner page view: it is the inner view of your event, a single page on the "
+"event, where all the information is shown"
+msgstr ""
+"2- Vista Evento individual: es la vista interior de un evento, una página "
+"individual para el evento, donde se muestra toda la información de forma "
+"detallada."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:34
+msgid ""
+"3- Calendar view: customize how you want to show your event in the calendar "
+"page"
+msgstr ""
+"3- Vista Calendario: aquí se puede personalizar como se mostraré un evento "
+"en la página de calendario"
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:36
+msgid ""
+"4- Category view: each category page has a list with all the events of that "
+"category. You can customize your event and define its list view"
+msgstr ""
+"4- Vista Categoría: cada página contiene una lista de categorías con sus "
+"respectivos eventos."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:38
+msgid ""
+"5- Organizer view: each organizer page has a list with the organizer's "
+"events. You can customize your event and define its list view"
+msgstr ""
+"5- Vista Organizador: cada página muestra una lista de los organizadores, "
+"dentro de cada organizador se pueden ver sus respectivos eventos."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:40
+msgid ""
+"6- Place view: each place page has a list with all the events that take "
+"place in that place. you can customize your event and define its list view"
+msgstr ""
+"6- Vista Lugar: cada página muestra una lista de los lugares, dentro de cada "
+"lugar se pueden ver sus respectivos eventos."
+
+#: ../metaboxes/settings/settings.php:4
+msgid "General"
+msgstr "General"
+
+#: ../metaboxes/settings/settings.php:5
+msgid "Incompatibilities"
+msgstr "Incompatibilidad"
+
+#: ../metaboxes/settings/settings.php:6 ../metaboxes/settings/settings.php:153 ..
+#: metaboxes/settings/support.php:26 ../metaboxes/settings/welcome.php:135
+msgid "Template Editor"
+msgstr "Editor de Plantillas"
+
+#: ../metaboxes/settings/settings.php:7 ../metaboxes/settings/settings.php:241 ..
+#: classes/chronosly_dad_elements.php:2006
+msgid "Url"
+msgstr "Url"
+
+#: ../metaboxes/settings/settings.php:8
+msgid "Status"
+msgstr "Estado"
+
+#: ../metaboxes/settings/settings.php:17
+msgid "General settings"
+msgstr "Configuración General"
+
+#: ../metaboxes/settings/settings.php:19
+msgid "Enable Tickets"
+msgstr "Permitir Entradas"
+
+#: ../metaboxes/settings/settings.php:19
+msgid ""
+"In the Event editor the options for Tickets are shown by default. Disable "
+"this option if you don't want the options for Tickets to be shown."
+msgstr ""
+"En el Editor de Eventos, la opción de Entradas se muestra por defecto. "
+"Desactiva esta opción si no quieres que se muestren."
+
+#: ../metaboxes/settings/settings.php:31
+msgid "Enable Organizers"
+msgstr "Activar Organizadores"
+
+#: ../metaboxes/settings/settings.php:31
+msgid ""
+"In the Event editor the options for Organizers are shown by default. Disable "
+"this option if you don't want the options for Organizers to be shown"
+msgstr ""
+"En el Editor de Eventos, la opción de Organizadores se muestra por defecto. "
+"Desactiva esta opción si no quieres que se muestren."
+
+#: ../metaboxes/settings/settings.php:34
+msgid "Enable Places"
+msgstr "Activar Lugares"
+
+#: ../metaboxes/settings/settings.php:34
+msgid ""
+"In the Event editor the options for Places are shown by default. Disable "
+"this option if you don't want the options for Places to be shown"
+msgstr ""
+"En el Editor de Eventos, la opción de Lugares se muestra por defecto. "
+"Desactiva esta opción si no quieres que se muestren."
+
+#: ../metaboxes/settings/settings.php:36
+msgid "Enable template editor"
+msgstr "Activar Editor de Plantillas"
+
+#: ../metaboxes/settings/settings.php:36
+msgid ""
+"In the event, organizers and places editors the options for Templates "
+"customization are shown by default. Disable this option if you don't waht "
+"the options for Templates customization to be shown"
+msgstr ""
+"En un evento, las opciones de organizadores y lugares se muestran por "
+"defecto. Desactiva esta opción si quieres que no se muestren para la "
+"Personalización de Plantillas."
+
+#: ../metaboxes/settings/settings.php:37
+msgid "Currency"
+msgstr "Moneda"
+
+#: ../metaboxes/settings/settings.php:40
+msgid "Set currency for you tickets info and tickets selling."
+msgstr "Establece la moneda en que se vendrán tus entradas."
+
+#: ../metaboxes/settings/settings.php:45
+msgid "Events display"
+msgstr "Panel de eventos"
+
+#: ../metaboxes/settings/settings.php:46
+msgid "Week starts on"
+msgstr "La semana empieza en..."
+
+#: ../metaboxes/settings/settings.php:48
+msgid "Sunday"
+msgstr "Domingo"
+
+#: ../metaboxes/settings/settings.php:49
+msgid "Monday"
+msgstr "Lunes"
+
+#: ../metaboxes/settings/settings.php:50
+msgid ""
+"Calendars with weekly view start on Mondays by default. You can set the "
+"weeks to start on Sunday or Monday."
+msgstr ""
+"El calendario semanal empieza en Lunes por defecto. Se puede cambiar el día "
+"que empieza la semana Lunes/Domingo en el apartado de configuración."
+
+#: ../metaboxes/settings/settings.php:52
+msgid "Show past events"
+msgstr "Mostrar eventos pasados"
+
+#: ../metaboxes/settings/settings.php:52
+msgid ""
+"All past events are not shown by default, except on calendar. Enable this "
+"option if you want past events to be shown"
+msgstr ""
+"Por defecto, los eventos pasados no se muestran, exceptuando en el "
+"calendario. Marque esta casilla si quiere mostrar los eventos pasados."
+
+#: ../metaboxes/settings/settings.php:53 ../metaboxes/settings/settings.php:53
+msgid "Hide past events on calendar"
+msgstr "Eliminar los eventos ya pasados en la vista calendario"
+
+#: ../metaboxes/settings/settings.php:54
+msgid "Disable scroll when event is opened"
+msgstr "Desactivar scroll para eventos desplegados"
+
+#: ../metaboxes/settings/settings.php:54
+msgid "Disable the auto scroll when event is opened on event lists"
+msgstr "Desactiva el auto scroll (desplazamiento) cuando un evento se despliega"
+
+#: ../metaboxes/settings/settings.php:55
+msgid "Event sort"
+msgstr "Orden de eventos"
+
+#: ../metaboxes/settings/settings.php:58
+msgid "By date"
+msgstr "Fecha"
+
+#: ../metaboxes/settings/settings.php:59
+msgid "By order"
+msgstr "Orden"
+
+#: ../metaboxes/settings/settings.php:62
+msgid "By event name"
+msgstr "Nombre evento"
+
+#: ../metaboxes/settings/settings.php:67
+msgid ""
+"Sort order is by date by default. You can change the sort order into the "
+"following:"
+msgstr ""
+"Por defecto, los eventos se ordenan por fecha. Se puede cambiar el orden con "
+"estas otras opciones:"
+
+#: ../metaboxes/settings/settings.php:68
+msgid "date"
+msgstr "fecha"
+
+#: ../metaboxes/settings/settings.php:69
+msgid "order"
+msgstr "orden"
+
+#: ../metaboxes/settings/settings.php:70
+msgid ""
+"it is ordered by the customized order in each type of element: events, "
+"categories, organizers, and places."
+msgstr ""
+"se ordena por orden personalizado para cada tipo de elemento: eventos, "
+"categorías, organizadores y lugares."
+
+#: ../metaboxes/settings/settings.php:71
+msgid ""
+"The option to set an order is in the Options right sidebar of the elements "
+"that have this kind of setting: events, categories, organizers, and places."
+msgstr ""
+"La opción para configurar el \"Orden\" se encuentra dentro de Configuración en "
+"la barra lateral derecha. Los elementos que pueden configurar su orden son: "
+"eventos, categorías, organizadores y lugares."
+
+#: ../metaboxes/settings/settings.php:71
+msgid ""
+"For more information, check the <a target='_blank' href='http://www."
+"chronosly.com/faq/events/others/'>Order settings help</a>"
+msgstr ""
+"Más información sobre Orden (contenido en inglés) <a target='_blank' "
+"href='http://www.chronosly.com/faq/events/others/'>Ayuda sobre la "
+"Configuración de Orden</a>"
+
+#: ../metaboxes/settings/settings.php:72
+msgid "event name"
+msgstr "nombre del evento"
+
+#: ../metaboxes/settings/settings.php:74
+msgid "Event sort direction"
+msgstr "Orden de eventos"
+
+#: ../metaboxes/settings/settings.php:76
+msgid "Ascendent"
+msgstr "Ascendente"
+
+#: ../metaboxes/settings/settings.php:77
+msgid "Descendent"
+msgstr "Descendente"
+
+#: ../metaboxes/settings/settings.php:79
+msgid "Featured on top"
+msgstr "Destacado encima"
+
+#: ../metaboxes/settings/settings.php:79
+msgid ""
+"Featured events are shown on top of the lists or views by default. Disable "
+"this option to have them shown by Default sort, from the previous point in "
+"General Settings"
+msgstr ""
+"Por defecto, los eventos Destacados se muestran en la parte superior de las "
+"listas. Desactivando esta opción listará los eventos por Orden "
+"predeterminado (punto anterior de Configuración General)"
+
+#: ../metaboxes/settings/settings.php:80
+msgid "Events per page"
+msgstr "Eventos por página"
+
+#: ../metaboxes/settings/settings.php:80
+msgid "Set the number of events to be displayed per page"
+msgstr "Introducir el número de eventos a mostrar por página"
+
+#: ../metaboxes/settings/settings.php:82
+msgid "Organizers per page"
+msgstr "Organizadores por página"
+
+#: ../metaboxes/settings/settings.php:82
+msgid "Set the number of rganizers to be displayed per page"
+msgstr "Introducir el número de organizadores a mostrar por página"
+
+#: ../metaboxes/settings/settings.php:85
+msgid "Places per page"
+msgstr "Lugares por página"
+
+#: ../metaboxes/settings/settings.php:85
+msgid "Set the number of places to be displayed per page"
+msgstr "Introducir el número de lugares a mostrar por página"
+
+#: ../metaboxes/settings/settings.php:86
+msgid "Show event repeats on organizers"
+msgstr "Mostrar eventos recurrentes para Organizadores"
+
+#: ../metaboxes/settings/settings.php:86
+msgid "Events repetition will be shown on organizers event list"
+msgstr "Se mostrarán los eventos recurrentes en las listas de Organizadores"
+
+#: ../metaboxes/settings/settings.php:87
+msgid "Show event repeats on places"
+msgstr "Mostrar eventos recurrentes para Lugares"
+
+#: ../metaboxes/settings/settings.php:87
+msgid "Events repetition will be shown on places event list"
+msgstr "Se mostrarán los eventos recurrentes en las listas de Lugares"
+
+#: ../metaboxes/settings/settings.php:90
+msgid "Main event list display"
+msgstr "Principal formato de lista de eventos"
+
+#: ../metaboxes/settings/settings.php:93
+msgid "Year"
+msgstr "Año"
+
+#: ../metaboxes/settings/settings.php:94
+msgid "Month"
+msgstr "Mes"
+
+#: ../metaboxes/settings/settings.php:95
+msgid "Week"
+msgstr "Semana"
+
+#: ../metaboxes/settings/settings.php:96
+msgid "Day"
+msgstr "Día"
+
+#: ../metaboxes/settings/settings.php:97
+msgid "Upcoming"
+msgstr "Próximos"
+
+#: ../metaboxes/settings/settings.php:98
+msgid ""
+"Event list are shown by current month by default. Change this option if you "
+"want them to be shown weekly, annually or upcoming for a day range. Whatever "
+"kind of chosen option, the moment will be always shown (current year, month, "
+"day, or next upcoming events)"
+msgstr ""
+"Las listas de eventos, por defecto, se muestran por \"mes actual\". Cambie "
+"esta opción para mostrarlas por semana, anual o por eventos futuros. Para "
+"cualquier de las anteriores opciones seleccionadas, esta selección afectará "
+"en los eventos que se mostrarán en las diferentes vistas."
+
+#: ../metaboxes/settings/settings.php:100
+msgid "Force main event list date"
+msgstr "Forzar fecha de lista de eventos principal"
+
+#: ../metaboxes/settings/settings.php:101
+msgid ""
+"This option is closely related to 'Main event list display'. It allows to "
+"show another year, month, or days other than the current ones. That is to "
+"say, you can choose which events, past or future, will be shown on the "
+"events list"
+msgstr ""
+"Es una opción estrechamente ligada a \"Principal formato de lista de eventos\" "
+"ya que permite forzar mostrar otro año, mes o día que no sea el actual. "
+"Dicho de otro modo, se pueden especificar qué eventos, pasados o futuros, se "
+"mostrarán en las listas de eventos.\n"
+"\n"
+
+#: ../metaboxes/settings/settings.php:102
+msgid "Year: set the year to be shown. e.g. 2015"
+msgstr "Año: Especificar el año en concreto a mostrar. Por ejemplo 2015"
+
+#: ../metaboxes/settings/settings.php:103
+msgid ""
+"Month: set the month to be shown. e.g. if you want to show August, set 8 or "
+"08"
+msgstr ""
+"Mes: Especificar el mes en concreto a mostrar. Por ejemplo para agosto 8 o "
+"08, para noviembre 11"
+
+#: ../metaboxes/settings/settings.php:104
+msgid ""
+"Day: set the day to be shown in format yyyy-mm-dd. e.g. 25th October would "
+"be 2014-10-25"
+msgstr ""
+"Día: Especificar el día en concreto a mostrar. Por ejemplo para el 25 de "
+"octubre de 2015 sería 2014-10-25"
+
+#: ../metaboxes/settings/settings.php:105
+msgid "Upcoming: set the day range for upcoming events. e.g. 100"
+msgstr "Próximos: indica el rango de días para mostrar eventos próximos. e.g. 100"
+
+#: ../metaboxes/settings/settings.php:112
+msgid "Themes and Plugins compatibility"
+msgstr "Compatibilidad entre Plantillas y Plugins"
+
+#: ../metaboxes/settings/settings.php:114
+msgid ""
+"Create a page with Chronosly base shortcode, used when you have style "
+"incompatibilities with your theme"
+msgstr ""
+"Crea una página de Chronosly con base para shortcodes, es útil para "
+"aparezcan incompatibilidades con el Tema de WordPress"
+
+#: ../metaboxes/settings/settings.php:115
+msgid "Create Base"
+msgstr "Crear Base"
+
+#: ../metaboxes/settings/settings.php:116
+msgid "Delete Base"
+msgstr "Borrar Base"
+
+#: ../metaboxes/settings/settings.php:120
+msgid ""
+"This option creates a page called “chronosly base” and adds the shortcode to "
+"load your theme structure."
+msgstr ""
+"Esta opción crea una una página \"Chronosly base\", la cual añade el shortcode "
+"que se adapta a la estructura del Tema de su web."
+
+#: ../metaboxes/settings/settings.php:121
+msgid ""
+"If you want more flexibility with different Chronosly pages (i.g. event list,"
+" single event, organizer), to add extra html like different headers, "
+"sidebars... you could create your own Chronosly custom template files inside "
+"your active theme."
+msgstr ""
+"Para más flexibilidad con las diferentes páginas de Chronosly (p.ej listas "
+"de eventos, evento individual, organizadores, etc...), para añadir código "
+"html como los encabezados, barras laterales... se pueden crear archivos de "
+"páginas personalizadas de Chronosly dentro del Tema que se esté utilizando."
+
+#: ../metaboxes/settings/settings.php:122
+msgid ""
+"More info about <a href='http://www.chronosly.com/faq/frontend/theme-style-"
+"incompatibilities/' target='_blank'>Chronosly theme style "
+"incompatibilities</a>"
+msgstr ""
+"Más información sobre (Contenido en inglés) <a href='http://www.chronosly."
+"com/faq/frontend/theme-style-incompatibilities/' "
+"target='_blank'>Incompatibilidades de Chronosly con el estilo del Tema</a>"
+
+#: ../metaboxes/settings/settings.php:126
+msgid "Disable jquery admin"
+msgstr "Deshabilitar jquery en el admin"
+
+#: ../metaboxes/settings/settings.php:126
+msgid ""
+"Disable jquery script if another plugins adds jquery source(this will "
+"prevent incompatibilities and source code duplication)"
+msgstr ""
+"Deshabilita script de jquery si existe otro plugin que ya lo carga (esto "
+"evitará problemas en el futuro)"
+
+#: ../metaboxes/settings/settings.php:127
+msgid "Disable gmap script"
+msgstr "Deshabilitar script de gmap"
+
+#: ../metaboxes/settings/settings.php:127
+msgid ""
+"Disable Google maps script if you already have Gmap on your theme (this will "
+"prevent incompatibilities and source code duplication)"
+msgstr ""
+"Deshabilitar el script de goolge maps si algún otro plugin o plantilla ya "
+"carga este script (evitará problemas cuando se muestren los mapas)"
+
+#: ../metaboxes/settings/settings.php:128
+msgid "Disable chronosly cache"
+msgstr "Deshabilitar la cache de chronosly"
+
+#: ../metaboxes/settings/settings.php:128
+msgid "Disable Chronosly internal events cache"
+msgstr "Deshabilita la cache interna de Chronosly"
+
+#: ../metaboxes/settings/settings.php:129
+msgid "Clear Cache"
+msgstr "Borrar Cache"
+
+#: ../metaboxes/settings/settings.php:154
+msgid "Default template"
+msgstr "Plantilla por defecto"
+
+#: ../metaboxes/settings/settings.php:157
+msgid ""
+"Choose the Template what will be used in the Template Editor by default. You "
+"can also change the template once your are into the Template Editor"
+msgstr ""
+"Escoge la Plantilla que será usada en el Editor de Plantillas por defecto. "
+"Ésta se podrá cambiar una vez dentro del Editor de Plantillas"
+
+#: ../metaboxes/settings/settings.php:158
+msgid "Force default template"
+msgstr "Forzar Plantilla por defecto"
+
+#: ../metaboxes/settings/settings.php:158
+msgid ""
+"This option allows only the default template to be shown in all the views, "
+"even if they have been created by using other templates with different views"
+msgstr ""
+"Esta opción permite únicamente mostrar la Plantilla por defecto para todas "
+"las vistas a pesar que se hayan creado o utilizado otros templates en "
+"diferentes vistas."
+
+#: ../metaboxes/settings/settings.php:159
+msgid "Calendar template"
+msgstr "Plantilla Calendario"
+
+#: ../metaboxes/settings/settings.php:162 ../metaboxes/settings/settings.php:166
+msgid ""
+"Calendar Views can not be edited from the Template Editor. You can choose "
+"which will be the default template for the three Calendar Views of year, "
+"month and week."
+msgstr ""
+"Las vistas de Calendario no son personalizables desde el Template Editor, "
+"por tanto, se puede escoger cuál va a ser el template que se use por defecto "
+"para las tres vistas de Calendario, año, semana y día."
+
+#: ../metaboxes/settings/settings.php:163
+msgid "Navigation template"
+msgstr "Plantilla de Navegación"
+
+#: ../metaboxes/settings/settings.php:168
+msgid "Min. event width"
+msgstr "Mín. ancho de evento\n"
+
+#: ../metaboxes/settings/settings.php:170
+msgid "Set the minimum event width of your events and the rest of Chronosly views."
+msgstr ""
+"Establece el ancho mínimo para tus eventos y todo el resto de vistas de "
+"Chronosly. "
+
+#: ../metaboxes/settings/settings.php:171
+msgid ""
+"Note that if you set a minimum px which is too low you may have problens "
+"with the Responsive versions (only if you have chosen a template optimized "
+"for Mobile devices)"
+msgstr ""
+"Se debe tener en cuenta que si se establece un mínimo de px (píxels) "
+"demasiado bajo pueden surgir problemas con las versiones Responsive (siempre "
+"que hayas escogido un template optimizado para dispositivos móviles). "
+
+#: ../metaboxes/settings/settings.php:172
+msgid "The minimum set is not fixed, and it depends on the applied template."
+msgstr "Este mínimo no es fijo y depende mucho del template que se haya aplicado. "
+
+#: ../metaboxes/settings/settings.php:173 ../metaboxes/settings/settings.php:180
+msgid ""
+"We recommend to check, that once the minimum is modified, the different "
+"views of the template you are using are correctly shown"
+msgstr ""
+"Recomendamos que una vez modificado el ancho mínimo se compruebe que las "
+"diferentes vistas de la plantilla que se esté utilizando se muestren "
+"correctamente."
+
+#: ../metaboxes/settings/settings.php:175
+msgid "Max. event width"
+msgstr "Máx. ancho de evento"
+
+#: ../metaboxes/settings/settings.php:177
+msgid "Set the maximum event width of your events and the rest of Chronosly views."
+msgstr ""
+"Establece el ancho máximo para tus eventos y todo el resto de vistas de "
+"Chronosly. "
+
+#: ../metaboxes/settings/settings.php:178
+msgid ""
+"Note that if you modify this options you may have problens with the "
+"Responsive versions (only if you have chosen a template optimized for Mobile "
+"devices)"
+msgstr ""
+"Se debe tener en cuenta que si se modifica esta opción pueden surgir "
+"problemas con las versiones Responsive (siempre que hayas escogido un "
+"template optimizado para dispositivos móviles). "
+
+#: ../metaboxes/settings/settings.php:179
+msgid "The maximum set is not fixed, and it depends on the applied template."
+msgstr "Este máximo no es fijo y depende mucho del template que se haya aplicado. "
+
+#: ../metaboxes/settings/settings.php:184
+msgid "Default category color"
+msgstr "Color de categoría por defecto"
+
+#: ../metaboxes/settings/settings.php:184
+msgid ""
+"This is the default color for all categories, you can individually set "
+"category color inside the category editor"
+msgstr ""
+"Este es el color que utilizarán todas las categorías por defecto, puedes "
+"cambiarlas individualmente dentro del editor de categorías"
+
+#: ../metaboxes/settings/settings.php:185
+msgid "Ticket deal color"
+msgstr "Color Ticket en oferta"
+
+#: ../metaboxes/settings/settings.php:185
+msgid ""
+"Color for ticket deals when sale is enabled. Set best color to incerease "
+"visibility for your ticket sales"
+msgstr ""
+"Establece el color para los tickets en oferta. Escoge un color para "
+"incrementar la visibilidad  y ventas de tus ofertas o descuentos."
+
+#: ../metaboxes/settings/settings.php:186
+msgid "Show load template"
+msgstr "Mostrar Cargar Pantilla"
+
+#: ../metaboxes/settings/settings.php:188
+msgid ""
+"The option of load template is enabled by default, so different templates "
+"can be chosen and loaded in the Template editor"
+msgstr ""
+"Por defecto, la opción de Cargar Plantilla está activada, por tanto se "
+"podrán escoger y cargar diferentes plantillas en el Editor de Plantillas.\n"
+
+#: ../metaboxes/settings/settings.php:189 ../metaboxes/settings/settings.php:195
+msgid ""
+"This option is especially useful to prevent other users (team members or "
+"clients) from changing or modifying how the events are shown in the site"
+msgstr ""
+"Esta opción es especialmente útil para prevenir que otros usuarios (miembros "
+"del equipo o clientes) puedan cambiar o modificar como se muestran los "
+"eventos en en site."
+
+#: ../metaboxes/settings/settings.php:192
+msgid "Show load view"
+msgstr "Mostar Cargar vista"
+
+#: ../metaboxes/settings/settings.php:194
+msgid ""
+"The option of select view is enabled by default, so different templates "
+"views can be chosen in the Template editor"
+msgstr ""
+"Por defecto, la opción de Cargar vista está activada, por tanto se podrán "
+"escoger y cargar las diferentes vistas en el Editor de Plantillas."
+
+#: ../metaboxes/settings/settings.php:198
+msgid "Formats "
+msgstr "Formatos"
+
+#: ../metaboxes/settings/settings.php:200
+msgid "Default Time format"
+msgstr "Formato Hora por defecto"
+
+#: ../metaboxes/settings/settings.php:200
+msgid ""
+"Set display time format for tempalte editor. This option does not modify the "
+"format set in your template"
+msgstr ""
+"Establece el formato Hora que se mostrará en el Editor de Plantillas. Esta "
+"opción no modificará el formato de tu Plantilla"
+
+#: ../metaboxes/settings/settings.php:201
+msgid "Default Date format"
+msgstr "Formato Fecha por defecto"
+
+#: ../metaboxes/settings/settings.php:201
+msgid ""
+"Set display date format for template editor. This option does not modify the "
+"format set in your template"
+msgstr ""
+"Establece el formato Fecha que se mostrará en el Editor de Plantillas. Esta "
+"opción no modificará el formato de tu Plantilla"
+
+#: ../metaboxes/settings/settings.php:202
+msgid "Default DateTime format"
+msgstr "Formato Hora/Fecha por defecto"
+
+#: ../metaboxes/settings/settings.php:202
+msgid ""
+"Set display time and date format for template editor. This option does not "
+"modify the format set in your template"
+msgstr ""
+"Establece el formato Hora y Fecha que se mostrará en el Editor de Plantillas."
+" Esta opción no modificará el formato de tu Plantilla"
+
+#: ../metaboxes/settings/settings.php:203
+msgid "Full DateTime separator"
+msgstr "Separador de Hora/Fecha"
+
+#: ../metaboxes/settings/settings.php:205
+msgid ""
+"By default 'to' is set as in 11:00 to 19:00. Set custom date-time separator "
+"with dashes '-' '/' or pipes '|' or your custom html code"
+msgstr ""
+"Por defecto, se ha establecido \"a\" por ejemplo de 11:00 a 19:00. Se puede "
+"establecer el separador que se quiera como '-' '/' o '|' "
+
+#: ../metaboxes/settings/settings.php:223
+msgid "Categories separator"
+msgstr "Separador de Categorías"
+
+#: ../metaboxes/settings/settings.php:223
+msgid ""
+"Default Categories separator is ,(comma). Set up how categories should be "
+"shown between them."
+msgstr ""
+"Por defecto el separador de categorías es coma (,).  Se pueden personalizar "
+"los separadores que aparezcan entre las diferentes categorías."
+
+#: ../metaboxes/settings/settings.php:224
+msgid "Tags separator"
+msgstr "Separador de Etiquetas"
+
+#: ../metaboxes/settings/settings.php:224
+msgid ""
+"Default Tags separator is ,(comma). Set up how categories should be shown "
+"between them."
+msgstr ""
+"Por defecto el separador de etiquetas es coma (,).  Se pueden personalizar "
+"los separadores que aparezcan entre las diferentes etiquetas."
+
+#: ../metaboxes/settings/settings.php:225
+msgid "Default gmap zoom"
+msgstr "Gmap zoom por defecto"
+
+#: ../metaboxes/settings/settings.php:227
+msgid ""
+"Default Google maps zoom is 16. Zoom levels between 0 (the lowest zoom level,"
+" in which the entire world can be seen on one map) and 21+ (down to streets "
+"and individual buildings)."
+msgstr ""
+"Por defecto, Google maps zoom se establece en 16. Los niveles de zoom de "
+"Gmaps van desde 0 (el nivel más bajo, donde se puede ver todo el mundo en un "
+"mapa) hasta 21+ (donde se pueden ver las calles y los edificios "
+"individualmente)."
+
+#: ../metaboxes/settings/settings.php:228
+msgid ""
+"You can find more information in <a href='https://developers.google."
+"com/maps/documentation/staticmaps/?hl=en#Zoomlevels' target='_blank'>Google "
+"Maps help site</a>"
+msgstr ""
+"Más información en: <a href='https://developers.google."
+"com/maps/documentation/staticmaps/?hl=en#Zoomlevels' target='_blank'>Google "
+"Maps help site</a>"
+
+#: ../metaboxes/settings/settings.php:242 ../post-types/post_type_chronosly.php:
+#: 119 ../classes/chronosly_templates.php:1158 ../classes/chronosly_settings.php:
+#: 587
+msgid "Event"
+msgstr "Evento"
+
+#: ../metaboxes/settings/settings.php:245
+msgid ""
+"Slugs are meant to be used with permalinks as they help describe what the "
+"content at the URL is."
+msgstr ""
+"Los slugs suelen usarse como permalinks y ayudan a describir el contenido "
+"que se encontrará en la URL."
+
+#: ../metaboxes/settings/settings.php:246
+msgid ""
+"Slugs are a few words that describe an event or a page and can be anything "
+"you like."
+msgstr ""
+"Los slugs suelen componerse de unas pocas palabras que describen el evento o "
+"la página."
+
+#: ../metaboxes/settings/settings.php:247
+msgid "More info about slugs"
+msgstr "Más información sobre slugs"
+
+#: ../metaboxes/settings/settings.php:248
+msgid "More info about permalinks"
+msgstr "Más información sobre permalinks"
+
+#: ../metaboxes/settings/settings.php:251 ../post-types/post_type_chronosly.php:
+#: 1806 ../post-types/post_type_chronosly_organizer.php:60 ..
+#: classes/chronosly_templates.php:1159 ../classes/chronosly_settings.php:585
+msgid "Organizer"
+msgstr "Organizador"
+
+#: ../metaboxes/settings/settings.php:253 ../post-types/post_type_chronosly.php:
+#: 1807 ../post-types/post_type_chronosly_places.php:66 ..
+#: classes/chronosly_templates.php:1160 ../classes/chronosly_settings.php:586
+msgid "Place"
+msgstr "Lugar"
+
+#: ../metaboxes/settings/settings.php:256 ../metaboxes/settings/settings.php:298 .
+#: ./post-types/post_type_chronosly_calendar.php:75 ../classes/chronosly_widgets.
+#: php:194
+msgid "Calendar"
+msgstr "Calendario"
+
+#: ../metaboxes/settings/settings.php:258 ../classes/chronosly_settings.php:584
+msgid "Category"
+msgstr "Categoría"
+
+#: ../metaboxes/settings/settings.php:260
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: ../metaboxes/settings/settings.php:263
+msgid "Url for lists"
+msgstr "URL para listas"
+
+#: ../metaboxes/settings/settings.php:264
+msgid "Main event list"
+msgstr "Lista de eventos"
+
+#: ../metaboxes/settings/settings.php:267
+msgid "When you are inside an event this will be te url to go back to event list"
+msgstr ""
+"Dentro de un evento, esta será la URL que apuntará el link de \"Lista de "
+"eventos\" (volver atrás) "
+
+#: ../metaboxes/settings/settings.php:269
+msgid "Main event list title"
+msgstr "Título de Lista de eventos"
+
+#: ../metaboxes/settings/settings.php:272
+msgid "Title for url to go back to event list"
+msgstr "Título para la URL \"volver atrás\" a Lista de eventos"
+
+#: ../metaboxes/settings/settings.php:276 ../templates/single-organizer-chronosly.
+#: php:34 ../templates/single-organizer-chronosly.php:37
+msgid "Organizers list"
+msgstr "Lista de organizadores"
+
+#: ../metaboxes/settings/settings.php:279
+msgid ""
+"When you are inside an organizer this will be te url to go back to "
+"organizers list"
+msgstr ""
+"Dentro de un organizador, esta será la URL que apuntará el link de \"Lista de "
+"organizadores\" (volver atrás) "
+
+#: ../metaboxes/settings/settings.php:281
+msgid "Organizers list title"
+msgstr "Título para Lista de organizadores"
+
+#: ../metaboxes/settings/settings.php:284
+msgid "Title for url to go back to organizers list"
+msgstr "Título para la URL \"volver atrás\" a Lista de organizadores"
+
+#: ../metaboxes/settings/settings.php:286 ../templates/single-places-chronosly.
+#: php:27 ../templates/single-places-chronosly.php:29
+msgid "Places list"
+msgstr "Lista de lugares"
+
+#: ../metaboxes/settings/settings.php:289
+msgid "When you are inside a place this will be te url to go back to places list"
+msgstr ""
+"Dentro de un lugar, esta será la URL que apuntará el link de \"Lista de "
+"lugares\" (volver atrás) "
+
+#: ../metaboxes/settings/settings.php:291
+msgid "Places list title"
+msgstr "Título para Lista de lugares"
+
+#: ../metaboxes/settings/settings.php:294
+msgid "Title for url to go back to places list"
+msgstr "Título para la URL \"volver atrás\" a Lista de lugares"
+
+#: ../metaboxes/settings/settings.php:301
+msgid "This will be the url for the calendar icon, usefull for navigate to calendar"
+msgstr "URL que apunta el icono de calendario"
+
+#: ../metaboxes/settings/settings.php:313
+msgid "Chronosly status"
+msgstr "Estado de Chronosly"
+
+#: ../metaboxes/settings/settings.php:317 ../classes/chronosly_settings.php:256
+msgid "Templates status"
+msgstr ""
+"Plantillas \n"
+"Estado"
+
+#: ../metaboxes/settings/settings.php:318
+msgid "Automatic templates updates"
+msgstr "Plantillas: Actualizaciones automáticas"
+
+#: ../metaboxes/settings/settings.php:320
+msgid ""
+"By default this option is disabled. Mark it if you want Chronosly templates "
+"to be automatically updated when a new version is released."
+msgstr ""
+"Por defecto esta opción se encuentra DESACTIVADA. Actívela si quiere que "
+"Chronosly actualize las plantillas automáticamente cuando una nueva versión "
+"esté disponible."
+
+#: ../metaboxes/settings/settings.php:327 ../classes/chronosly_settings.php:503
+msgid "Save"
+msgstr "Guardar"
+
+#: ../metaboxes/settings/template-editor.php:8
+msgid "Template successfully installed!"
+msgstr "Plantilla instalada correctamente!"
+
+#: ../metaboxes/settings/template-editor.php:9
+msgid "Check"
+msgstr "Check"
+
+#: ../metaboxes/settings/template-editor.php:9
+msgid "Addons Configs"
+msgstr "Configuración Addons"
+
+#: ../metaboxes/settings/template-editor.php:9
+msgid "to ensure that all addons are ready for the template."
+msgstr "asegúrate que tus Addons están listos para adaptarse a la plantilla."
+
+#: ../metaboxes/settings/template-editor.php:12
+msgid "Upload template"
+msgstr "Subir una Plantilla"
+
+#: ../metaboxes/settings/template-editor.php:18 ../metaboxes/settings/addons-
+#: settings.php:122
+msgid "Upload"
+msgstr "Subir"
+
+#: ../metaboxes/settings/templates-status.php:3
+msgid "Template Status"
+msgstr "Estado de la Plantilla"
+
+#: ../metaboxes/settings/templates-status.php:4
+msgid ""
+"This feature automatically check how different templates are used on events, "
+"organizers, places and categories."
+msgstr ""
+"Esta opción revisa automáticamente como las diferentes plantillas se usan en "
+"eventos, organizadores, lugares y categorías."
+
+#: ../metaboxes/settings/templates-status.php:7
+msgid "Filter events"
+msgstr "Filtrar eventos"
+
+#: ../metaboxes/settings/templates-status.php:9
+msgid "All"
+msgstr "Todos"
+
+#: ../metaboxes/settings/templates-status.php:10
+msgid "Not past events"
+msgstr "No eventos pasados"
+
+#: ../metaboxes/settings/templates-status.php:11
+msgid "Template not manual edited"
+msgstr "Plantilla no editada manualmente"
+
+#: ../metaboxes/settings/templates-status.php:12
+msgid "Template manual edited"
+msgstr "Plantilla editada manualmente"
+
+#: ../metaboxes/settings/templates-status.php:15
+msgid "Group by"
+msgstr "Agrupar por"
+
+#: ../metaboxes/settings/templates-status.php:17 ../post-
+#: types/post_type_chronosly.php:2118 ../post-types/post_type_chronosly_places.
+#: php:328 ../post-types/post_type_chronosly_organizer.php:291 ..
+#: classes/chronosly_settings.php:588
+msgid "Template"
+msgstr "Plantilla"
+
+#: ../metaboxes/settings/templates-status.php:18
+msgid "View"
+msgstr "Ver"
+
+#: ../metaboxes/settings/templates-status.php:23 ../classes/chronosly_settings.
+#: php:602
+msgid "Chart representation of template usage"
+msgstr "Representación gráfica del uso de plantillas"
+
+#: ../metaboxes/settings/addons-settings.php:10 ../metaboxes/settings/addons-
+#: settings.php:87 ../metaboxes/settings/addons-settings.php:94 ..
+#: classes/chronosly_mk_templates.php:70 ../classes/chronosly_mk_addons.php:70 ..
+#: classes/chronosly_settings.php:301 ../classes/chronosly_settings.php:338 ..
+#: classes/chronosly_settings.php:366 ../classes/chronosly_settings.php:473 ..
+#: classes/chronosly_settings.php:536 ../classes/chronosly_settings.php:548 ..
+#: classes/chronosly_settings.php:560 ../classes/chronosly_settings.php:612 ..
+#: classes/chronosly_settings.php:701
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No posee suficientes permisos para acceder a esta página."
+
+#: ../metaboxes/settings/addons-settings.php:111
+msgid "Addon successfully installed!"
+msgstr "El Addon se ha instalado correctamente!"
+
+#: ../metaboxes/settings/addons-settings.php:115
+msgid "Addon successfully removed!"
+msgstr "El Addon se ha desinstalado correctamente!"
+
+#: ../metaboxes/settings/addons-settings.php:116
+msgid "Upload addon"
+msgstr "Subir addon"
+
+#: ../metaboxes/settings/support.php:4 ../metaboxes/settings/welcome.php:68 ..
+#: metaboxes/settings/welcome.php:115 ../post-types/post_type_chronosly.php:118 .
+#: ./classes/chronosly_widgets.php:193
+msgid "Events"
+msgstr "Eventos"
+
+#: ../metaboxes/settings/support.php:6 ../metaboxes/settings/support.php:16 ..
+#: metaboxes/settings/support.php:28 ../metaboxes/settings/support.php:42 ..
+#: metaboxes/settings/support.php:49 ../metaboxes/settings/support.php:56 ..
+#: metaboxes/settings/welcome.php:70 ../metaboxes/settings/welcome.php:80 ..
+#: metaboxes/settings/welcome.php:92 ../metaboxes/settings/welcome.php:117 ..
+#: metaboxes/settings/welcome.php:127 ../metaboxes/settings/welcome.php:137 ..
+#: metaboxes/settings/welcome.php:148 ../metaboxes/settings/welcome.php:155 ..
+#: metaboxes/settings/welcome.php:163
+msgid "General info"
+msgstr "Información General"
+
+#: ../metaboxes/settings/support.php:7 ../metaboxes/settings/welcome.php:71 ..
+#: metaboxes/settings/welcome.php:118 ../post-types/post_type_chronosly.php:1803
+msgid "Date"
+msgstr "Fecha"
+
+#: ../metaboxes/settings/support.php:8 ../metaboxes/settings/welcome.php:72 ..
+#: metaboxes/settings/welcome.php:119 ../post-types/post_type_chronosly.php:2105
+#: ../classes/chronosly_templates.php:1164
+msgid "Tickets"
+msgstr "Entradas"
+
+#: ../metaboxes/settings/support.php:9 ../metaboxes/settings/welcome.php:73 ..
+#: metaboxes/settings/welcome.php:120 ../post-types/post_type_chronosly_category.
+#: php:48 ../templates/archive-category-chronosly.php:43 ..
+#: classes/chronosly_dad_elements.php:5513
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../metaboxes/settings/support.php:10 ../metaboxes/settings/welcome.php:74 ..
+#: metaboxes/settings/welcome.php:121 ../post-types/post_type_chronosly.php:2029
+#: ../post-types/post_type_chronosly.php:2143 ../post-
+#: types/post_type_chronosly_organizer.php:59 ../templates/archive-organizer-
+#: chronosly.php:56 ../classes/chronosly_widgets.php:195
+msgid "Organizers"
+msgstr "Organizadores"
+
+#: ../metaboxes/settings/support.php:11 ../metaboxes/settings/welcome.php:75 ..
+#: metaboxes/settings/welcome.php:122 ../post-types/post_type_chronosly.php:2047
+#: ../post-types/post_type_chronosly.php:2157 ../post-
+#: types/post_type_chronosly_places.php:65 ../templates/archive-places-chronosly.
+#: php:52 ../classes/chronosly_widgets.php:196
+msgid "Places"
+msgstr "Lugares"
+
+#: ../metaboxes/settings/support.php:14 ../metaboxes/settings/welcome.php:78 ..
+#: metaboxes/settings/welcome.php:125
+msgid "Frontend"
+msgstr "Frontend"
+
+#: ../metaboxes/settings/support.php:17 ../metaboxes/settings/welcome.php:81 ..
+#: metaboxes/settings/welcome.php:128
+msgid "Event views"
+msgstr "Vista de eventos"
+
+#: ../metaboxes/settings/support.php:18 ../metaboxes/settings/welcome.php:82 ..
+#: metaboxes/settings/welcome.php:129
+msgid "Calendar views"
+msgstr "Vistas de calendarios"
+
+#: ../metaboxes/settings/support.php:19 ../metaboxes/settings/welcome.php:83 ..
+#: metaboxes/settings/welcome.php:130
+msgid "Categories views"
+msgstr "Vistas de Categorías"
+
+#: ../metaboxes/settings/support.php:20 ../metaboxes/settings/welcome.php:84 ..
+#: metaboxes/settings/welcome.php:131
+msgid "Organizers views"
+msgstr "Vistas de Organizadores"
+
+#: ../metaboxes/settings/support.php:21 ../metaboxes/settings/welcome.php:85 ..
+#: metaboxes/settings/welcome.php:132
+msgid "Places views"
+msgstr "Vistas de Lugares"
+
+#: ../metaboxes/settings/support.php:22
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: ../metaboxes/settings/support.php:23
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../metaboxes/settings/support.php:29 ../metaboxes/settings/welcome.php:138
+msgid "Templates and views"
+msgstr "Plantillas y vistas"
+
+#: ../metaboxes/settings/support.php:30 ../metaboxes/settings/welcome.php:139
+msgid "Drag & Drop"
+msgstr "Drag & Drop"
+
+#: ../metaboxes/settings/support.php:31 ../metaboxes/settings/welcome.php:140
+msgid "Editing tools"
+msgstr "Herramientas de edición"
+
+#: ../metaboxes/settings/support.php:32 ../metaboxes/settings/welcome.php:141
+msgid "Template status"
+msgstr "Estado de las Plantillas"
+
+#: ../metaboxes/settings/support.php:33
+msgid "Set read/write permissions"
+msgstr "Debe fijar permisos de lectura/escriptura"
+
+#: ../metaboxes/settings/support.php:34 ../metaboxes/settings/support.php:50 ..
+#: metaboxes/settings/welcome.php:156
+msgid "Custom templates"
+msgstr "Plantillas Personalizadas"
+
+#: ../metaboxes/settings/support.php:35
+msgid "Theme incompatibilities"
+msgstr "Incompatibilidades de plantilla"
+
+#: ../metaboxes/settings/support.php:36
+msgid "Edited templates - Troubleshooting"
+msgstr "Plantillas editadas - Problemas"
+
+#: ../metaboxes/settings/support.php:40 ../metaboxes/settings/welcome.php:88 ..
+#: metaboxes/settings/welcome.php:146
+msgid "Addons"
+msgstr "Addons"
+
+#: ../metaboxes/settings/support.php:43 ../metaboxes/settings/welcome.php:149
+msgid "Addons and custom templates synergy"
+msgstr "Addons y interacción con las plantillas personalizadas"
+
+#: ../metaboxes/settings/support.php:44 ../metaboxes/settings/welcome.php:150
+msgid "Addons marketplace"
+msgstr "Tienda de Addons "
+
+#: ../metaboxes/settings/support.php:47 ../metaboxes/settings/welcome.php:89 ..
+#: metaboxes/settings/welcome.php:153
+msgid "Templates"
+msgstr "Plantillas"
+
+#: ../metaboxes/settings/support.php:51 ../metaboxes/settings/welcome.php:157
+msgid "Templates marketplace"
+msgstr "Tienda de Plantillas"
+
+#: ../metaboxes/settings/support.php:54 ../metaboxes/settings/welcome.php:66 ..
+#: metaboxes/settings/welcome.php:90 ../metaboxes/settings/welcome.php:113 ..
+#: metaboxes/settings/welcome.php:161 ../classes/chronosly_settings.php:239
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../metaboxes/settings/support.php:57 ../metaboxes/settings/welcome.php:93 ..
+#: metaboxes/settings/welcome.php:164
+msgid "Change profile Basic or Advanced"
+msgstr "Cambiar perfil Básico o  Avanzado"
+
+#: ../metaboxes/settings/support.php:58 ../metaboxes/settings/welcome.php:94 ..
+#: metaboxes/settings/welcome.php:165
+msgid "Set license key"
+msgstr "Introducir Número de licencia"
+
+#: ../metaboxes/settings/support.php:59 ../metaboxes/settings/welcome.php:95 ..
+#: metaboxes/settings/welcome.php:166
+msgid "Set default template"
+msgstr "Establecer Plantilla por defecto"
+
+#: ../metaboxes/settings/support.php:60 ../metaboxes/settings/welcome.php:96 ..
+#: metaboxes/settings/welcome.php:167
+msgid "Set default event list view"
+msgstr "Establecer Vista de Lista de eventos por defecto"
+
+#: ../metaboxes/settings/support.php:61 ../metaboxes/settings/welcome.php:97 ..
+#: metaboxes/settings/welcome.php:168
+msgid "Set default currency"
+msgstr "Establecer Moneda por defecto"
+
+#: ../metaboxes/settings/support.php:62 ../metaboxes/settings/welcome.php:98 ..
+#: metaboxes/settings/welcome.php:169
+msgid "Set custom urls"
+msgstr "Establecer URLs Personalizadas"
+
+#: ../metaboxes/settings/support.php:63 ../metaboxes/settings/welcome.php:99 ..
+#: metaboxes/settings/welcome.php:170
+msgid "Set formats"
+msgstr "Establecer Formatos"
+
+#: ../metaboxes/settings/support.php:64 ../metaboxes/settings/welcome.php:171
+msgid "Set editing tools config"
+msgstr "Establecer Configuración para Herramientas de edición"
+
+#: ../metaboxes/settings/welcome.php:34
+msgid "Welcome to"
+msgstr "Bienvenido a"
+
+#: ../metaboxes/settings/welcome.php:35
+msgid "Choose the profile that better suits your skills"
+msgstr "Escoje el perfil que mejor se adapte a tus conocimientos de programación"
+
+#: ../metaboxes/settings/welcome.php:39 ../metaboxes/settings/welcome.php:66
+msgid "Basic"
+msgstr "Básico"
+
+#: ../metaboxes/settings/welcome.php:40
+msgid ""
+"Don't worry about anything, just upload your events very easily. Templates "
+"and extra addons are available in our marketplace"
+msgstr ""
+"No tienes que preocuparte de nada, solo introduce los datos de tus eventos y "
+"listo. Está pensado para que te sea fácil, muy fácil de usar. Encontrarás "
+"más plantillas y otras funcionalidades extra (addons) en la Tienda."
+
+#: ../metaboxes/settings/welcome.php:41 ../metaboxes/settings/welcome.php:48
+msgid "select"
+msgstr "seleccionar"
+
+#: ../metaboxes/settings/welcome.php:46
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: ../metaboxes/settings/welcome.php:47
+msgid "Take control of everything."
+msgstr "Toma todo el control del plugin."
+
+#: ../metaboxes/settings/welcome.php:47
+msgid ""
+"Make your own templates or edit the predefined ones with our editing drag "
+"&drop system"
+msgstr ""
+"Crea tus propias plantillas o edita las predefinidas a través de nuestro "
+"sistema de edición Drag & Drop. "
+
+#: ../metaboxes/settings/welcome.php:66 ../metaboxes/settings/welcome.php:113
+msgid "version"
+msgstr "versión"
+
+#: ../metaboxes/settings/welcome.php:66 ../metaboxes/settings/welcome.php:113
+msgid "Create my first event"
+msgstr "Crear mi primer evento"
+
+#: ../metaboxes/settings/welcome.php:113
+msgid "Pro"
+msgstr "Pro"
+
+#: ../post-types/post_type_chronosly_tag.php:43
+msgid "Event Tags"
+msgstr "Etiquetas de evento"
+
+#: ../post-types/post_type_chronosly_tag.php:44
+msgid "Event Tag"
+msgstr "Etiqueta de evento"
+
+#: ../post-types/post_type_chronosly_tag.php:45 ../post-
+#: types/post_type_chronosly_tag.php:46
+msgid "Add new tag"
+msgstr "Añadir nueva etiqueta"
+
+#: ../post-types/post_type_chronosly_tag.php:47
+msgid "View tag"
+msgstr "Ver etiqueta"
+
+#: ../post-types/post_type_chronosly.php:120 ../post-types/post_type_chronosly.
+#: php:121
+msgid "Add new event"
+msgstr "Añadir nuevo evento"
+
+#: ../post-types/post_type_chronosly.php:122
+msgid "View event"
+msgstr "Ver evento"
+
+#: ../post-types/post_type_chronosly.php:123
+msgid "Search event"
+msgstr "Buscar evento"
+
+#: ../post-types/post_type_chronosly.php:152 ../post-
+#: types/post_type_chronosly_places.php:102
+msgid "Events type for managing your events"
+msgstr "Tipos de eventos para administrar tus eventos"
+
+#: ../post-types/post_type_chronosly.php:1735 ../templates/calendar-chronosly.php:
+#: 136 ../templates/calendar-chronosly.php:155 ../templates/calendar-chronosly.
+#: php:261 ../templates/calendar-chronosly.php:281 ../templates/calendar-
+#: chronosly.php:363 ../templates/calendar-chronosly.php:380
+msgid "year"
+msgstr "año"
+
+#: ../post-types/post_type_chronosly.php:1736
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../post-types/post_type_chronosly.php:1737
+msgid "Choose"
+msgstr "Elegir"
+
+#: ../post-types/post_type_chronosly.php:1738
+msgid "Slower preview"
+msgstr "Vista previa lenta"
+
+#: ../post-types/post_type_chronosly.php:1739 ../post-types/post_type_chronosly.
+#: php:2250
+msgid "Faster preview"
+msgstr "Vista previa rápida"
+
+#: ../post-types/post_type_chronosly.php:1740
+msgid "overwritted"
+msgstr "sobreescrito"
+
+#: ../post-types/post_type_chronosly.php:1741
+msgid "You have to specify a name or select a template to update"
+msgstr "Debes especificar un nombre o seleccionar una plantilla para subir"
+
+#: ../post-types/post_type_chronosly.php:1742
+msgid ""
+"The name have incorrect characters, only are alowed chars between a-z,A-Z,0-"
+"9 and - or _"
+msgstr ""
+"El nombre facilitado tiene carácteres incorrectos, solo se permiten \n"
+"a-z,A-Z,0-9 y - (guión) o _ (guión bajo)"
+
+#: ../post-types/post_type_chronosly.php:1743
+msgid "Saved successfully"
+msgstr "Guardado correctamente"
+
+#: ../post-types/post_type_chronosly.php:1744
+msgid "Cloned successfully"
+msgstr "Clonado correctamente"
+
+#: ../post-types/post_type_chronosly.php:1808
+msgid "Visibility"
+msgstr "Visibilidad"
+
+#: ../post-types/post_type_chronosly.php:1845 ../post-types/post_type_chronosly.
+#: php:1871
+msgid "Never"
+msgstr "Nunca"
+
+#: ../post-types/post_type_chronosly.php:1849
+#, php-format
+msgid "Every %d day"
+msgstr "Cada %d día"
+
+#: ../post-types/post_type_chronosly.php:1853
+#, php-format
+msgid "Every %d week"
+msgstr "Cada %d semana"
+
+#: ../post-types/post_type_chronosly.php:1857
+#, php-format
+msgid "Every %d month"
+msgstr "Cada %d mes"
+
+#: ../post-types/post_type_chronosly.php:1861
+#, php-format
+msgid "Every %d year"
+msgstr "Cada %d año"
+
+#: ../post-types/post_type_chronosly.php:1877
+msgid "times"
+msgstr "veces"
+
+#: ../post-types/post_type_chronosly.php:1884 ../post-types/post_type_chronosly.
+#: php:2022
+msgid "Tickets and Repeats addon enabled"
+msgstr ""
+"Addon activado\n"
+" \n"
+"- Tickets y Repeticiones de eventos "
+
+#: ../post-types/post_type_chronosly.php:1936
+msgid "without image"
+msgstr "sin imagen"
+
+#: ../post-types/post_type_chronosly.php:1938
+msgid "Not Featured"
+msgstr "No Destacado"
+
+#: ../post-types/post_type_chronosly.php:1954
+msgid "Chronosly fields"
+msgstr "campos de Chronosly"
+
+#: ../post-types/post_type_chronosly.php:2073 ../post-
+#: types/post_type_chronosly_category.php:242 ../classes/chronosly_paint.php:76
+msgid "Color"
+msgstr "Color"
+
+#: ../post-types/post_type_chronosly.php:2093
+msgid "Date and Time"
+msgstr "Fecha y Hora"
+
+#: ../post-types/post_type_chronosly.php:2130 ../post-
+#: types/post_type_chronosly_places.php:339 ../post-
+#: types/post_type_chronosly_organizer.php:302
+msgid "Options"
+msgstr "Opciones"
+
+#: ../post-types/post_type_chronosly.php:2250
+msgid ""
+"If your admin runs slow try stopping template preview. Only use it when you "
+"really need it"
+msgstr ""
+"Si tu administrador se carga lento prueba desactivando la vista previa de la "
+"plantilla. Úsala cuando realmente sea necesario."
+
+#: ../post-types/post_type_chronosly.php:2250
+msgid "Loading your template"
+msgstr "Cargando tu plantilla"
+
+#: ../post-types/post_type_chronosly.php:2263 ../classes/chronosly_settings.php:589
+msgid "All events list view"
+msgstr "Vista Lista de Todos los eventos"
+
+#: ../post-types/post_type_chronosly.php:2264 ../classes/chronosly_settings.php:590
+msgid "Single event view"
+msgstr "Vista Evento individual"
+
+#: ../post-types/post_type_chronosly.php:2265 ../classes/chronosly_settings.php:591
+msgid "Calendar view"
+msgstr "Vista Calendario"
+
+#: ../post-types/post_type_chronosly.php:2266 ../classes/chronosly_settings.php:592
+msgid "Category events list view"
+msgstr ""
+"Vista Lista de eventos \n"
+"Categoría"
+
+#: ../post-types/post_type_chronosly.php:2267 ../classes/chronosly_settings.php:593
+msgid "Organizer events list view"
+msgstr "Vista Lista de eventos Orzanizador"
+
+#: ../post-types/post_type_chronosly.php:2268 ../classes/chronosly_settings.php:594
+msgid "Place events list view"
+msgstr "Vista Lista de eventos Lugar"
+
+#: ../post-types/post_type_chronosly_places.php:67 ../post-
+#: types/post_type_chronosly_places.php:68
+msgid "Add new place"
+msgstr "Añadir nuevo lugar"
+
+#: ../post-types/post_type_chronosly_places.php:69
+msgid "View place"
+msgstr "Ver lugar"
+
+#: ../post-types/post_type_chronosly_places.php:70
+msgid "Search place"
+msgstr "Buscar lugar"
+
+#: ../post-types/post_type_chronosly_places.php:317
+msgid "Place details"
+msgstr "Detalles del lugar"
+
+#: ../post-types/post_type_chronosly_places.php:373 ../classes/chronosly_settings.
+#: php:597
+msgid "All places list view"
+msgstr "Vista Lista de Todos los Lugares"
+
+#: ../post-types/post_type_chronosly_places.php:374 ../classes/chronosly_settings.
+#: php:598
+msgid "Single place view"
+msgstr "Vista de Lugar individual"
+
+#: ../post-types/post_type_chronosly_calendar.php:74
+msgid "Calendars"
+msgstr "Calendarios"
+
+#: ../post-types/post_type_chronosly_calendar.php:76 ../post-
+#: types/post_type_chronosly_calendar.php:77
+msgid "Add new calendar"
+msgstr "Añadir nuevo calendario"
+
+#: ../post-types/post_type_chronosly_calendar.php:78
+msgid "View calendar"
+msgstr "Ver calendario"
+
+#: ../post-types/post_type_chronosly_calendar.php:79
+msgid "Search calendar"
+msgstr "Buscar calendario"
+
+#: ../post-types/post_type_chronosly_calendar.php:107
+msgid "Calendar type for create event calendar"
+msgstr "Tipo de calendario para cerar calendario de eventos"
+
+#: ../post-types/post_type_chronosly_organizer.php:61 ../post-
+#: types/post_type_chronosly_organizer.php:62
+msgid "Add new organizer"
+msgstr "Añadir nuevo organizador"
+
+#: ../post-types/post_type_chronosly_organizer.php:63
+msgid "View organizer"
+msgstr "Ver organizador"
+
+#: ../post-types/post_type_chronosly_organizer.php:64
+msgid "Search organizer"
+msgstr "Buscar organizador"
+
+#: ../post-types/post_type_chronosly_organizer.php:95
+msgid "Organizer type for create event's organizers"
+msgstr "Tipo de organizador para crear eventos de organizadores"
+
+#: ../post-types/post_type_chronosly_organizer.php:280
+msgid "Organizer details"
+msgstr "Detalles de organizador"
+
+#: ../post-types/post_type_chronosly_organizer.php:337 ..
+#: classes/chronosly_settings.php:595
+msgid "All organizers list view"
+msgstr "Vista Lista Todos los Organizadores"
+
+#: ../post-types/post_type_chronosly_organizer.php:338 ..
+#: classes/chronosly_settings.php:596
+msgid "Single organizer view"
+msgstr "Vista Organizador individual"
+
+#: ../post-types/post_type_chronosly_category.php:125
+msgid "Event Categories"
+msgstr "Categoría de los eventos"
+
+#: ../post-types/post_type_chronosly_category.php:126
+msgid "Event Category"
+msgstr "Categoría del evento"
+
+#: ../post-types/post_type_chronosly_category.php:127 ../post-
+#: types/post_type_chronosly_category.php:128
+msgid "Add new category"
+msgstr "Añadir nueva categoría"
+
+#: ../post-types/post_type_chronosly_category.php:129
+msgid "View category"
+msgstr "Var categoría"
+
+#: ../post-types/post_type_chronosly_category.php:266
+msgid "Chronosly Configuration"
+msgstr "Configuración de Chronosly"
+
+#: ../post-types/post_type_chronosly_category.php:301 ..
+#: classes/chronosly_settings.php:599
+msgid "All categories list view"
+msgstr "Vista Lista Todos las Categorías"
+
+#: ../post-types/post_type_chronosly_category.php:302 ..
+#: classes/chronosly_settings.php:600
+msgid "Single category view"
+msgstr "Vista Categoría individual"
+
+#: ../templates/archive-category-chronosly.php:121
+msgid "More"
+msgstr "Más"
+
+#: ../templates/archive-category-chronosly.php:121
+msgid "events"
+msgstr "eventos"
+
+#: ../templates/archive-category-chronosly.php:127 ../templates/single-category-
+#: chronosly.php:113 ../templates/single-category-chronosly.php:120 ..
+#: templates/archive-organizer-chronosly.php:144 ../templates/archive-places-
+#: chronosly.php:143 ../templates/single-tag-chronosly.php:82 ../templates/single-
+#: tag-chronosly.php:83 ../templates/archive-chronosly.php:195 ..
+#: templates/archive-chronosly.php:202
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: ../templates/archive-category-chronosly.php:128 ../templates/single-category-
+#: chronosly.php:114 ../templates/single-category-chronosly.php:121 ..
+#: templates/archive-organizer-chronosly.php:146 ../templates/archive-places-
+#: chronosly.php:145 ../templates/single-tag-chronosly.php:86 ..
+#: templates/archive-chronosly.php:196 ../templates/archive-chronosly.php:203
+msgid "Next page"
+msgstr "Siguiente página"
+
+#: ../templates/archive-category-chronosly.php:136 ../templates/single-category-
+#: chronosly.php:130 ../templates/archive-organizer-chronosly.php:151 ..
+#: templates/single-organizer-chronosly.php:118 ../templates/archive-places-
+#: chronosly.php:151 ../templates/single-tag-chronosly.php:94 ../templates/single-
+#: chronosly.php:69 ../templates/archive-chronosly.php:209 ../templates/single-
+#: places-chronosly.php:110
+msgid "No events found"
+msgstr "No se encontraron eventos"
+
+#: ../templates/single-category-chronosly.php:46
+msgid "Category list"
+msgstr "Lista de Categoría"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "January"
+msgstr "Enero"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "February"
+msgstr "Febrero"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "March"
+msgstr "Marzo"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "April"
+msgstr "Abril"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "May"
+msgstr "Mayo"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "June"
+msgstr "Junio"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "July"
+msgstr "Julio"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "August"
+msgstr "Agosto"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "September"
+msgstr "Septiembre"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "October"
+msgstr "Octubre"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "November"
+msgstr "Noviembre"
+
+#: ../templates/archive-chronosly.php:58 ../templates/calendar-chronosly.php:109
+msgid "December"
+msgstr "Diciembre"
+
+#: ../templates/archive-chronosly.php:119
+msgid "Upcoming Events"
+msgstr "Eventos Próximos"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Sun"
+msgstr "Dom"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Mon"
+msgstr "Lun"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Tue"
+msgstr "Mar"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Wed"
+msgstr "Mie"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Thu"
+msgstr "Jue"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Fri"
+msgstr "Vie"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Sat"
+msgstr "Sab"
+
+#: ../templates/calendar-chronosly.php:135 ../templates/calendar-chronosly.php:
+#: 154 ../templates/calendar-chronosly.php:259 ../templates/calendar-chronosly.
+#: php:279 ../templates/calendar-chronosly.php:362 ../templates/calendar-
+#: chronosly.php:379
+msgid "today"
+msgstr "hoy"
+
+#: ../templates/calendar-chronosly.php:137 ../templates/calendar-chronosly.php:
+#: 156 ../templates/calendar-chronosly.php:262 ../templates/calendar-chronosly.
+#: php:282 ../templates/calendar-chronosly.php:364 ../templates/calendar-
+#: chronosly.php:381
+msgid "month"
+msgstr "mes"
+
+#: ../templates/calendar-chronosly.php:138 ../templates/calendar-chronosly.php:
+#: 157 ../templates/calendar-chronosly.php:264 ../templates/calendar-chronosly.
+#: php:284 ../templates/calendar-chronosly.php:365 ../templates/calendar-
+#: chronosly.php:382
+msgid "week"
+msgstr "semana"
+
+#: ../templates/calendar-chronosly.php:231 ../classes/chronosly_mk_templates.php:93
+msgid "view"
+msgstr "vista"
+
+#: ../templates/calendar-chronosly.php:325
+msgid "view+"
+msgstr "ver+"
+
+#: ../templates/calendar-chronosly.php:328
+msgid "close"
+msgstr "cerrar"
+
+#: ../classes/chronosly_extend.php:520
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: ../classes/chronosly_extend.php:524
+msgid "Update Gallery"
+msgstr "Actualizar galería"
+
+#: ../classes/chronosly_templates.php:53
+msgid "Cache cleared"
+msgstr "Cache vaciada"
+
+#: ../classes/chronosly_templates.php:134
+msgid "This template is a predefined template, you can't delete it"
+msgstr "Esta plantilla no se puede borrar, es una plantilla predefinida"
+
+#: ../classes/chronosly_templates.php:148
+msgid "An error ocurred when try to delete this template"
+msgstr "Ha ocurrido un error mientras se borraba la plantilla"
+
+#: ../classes/chronosly_templates.php:157
+msgid "removed"
+msgstr "borrada"
+
+#: ../classes/chronosly_templates.php:173
+msgid ""
+"This template is a predefined template, you can't modify it because further "
+"template autoupdates and addons upload will be automaticly."
+msgstr ""
+"Esta es una plantilla plantilla predeterminada,\n"
+" no se puede modificar porqué f\n"
+"uturas actualizaciones de la plantilla y/o instalaciones de addons se "
+"realizarán automáticamente."
+
+#: ../classes/chronosly_templates.php:173
+msgid "Please, if you want to change this template, clone it and modify the copy."
+msgstr ""
+"Por favor, si se quiere modificar esta plantilla, se debe clonar y modificar "
+"la copia."
+
+#: ../classes/chronosly_templates.php:193
+msgid "updated"
+msgstr "actualizada"
+
+#: ../classes/chronosly_templates.php:315
+msgid "template edited"
+msgstr "plantilla editada"
+
+#: ../classes/chronosly_templates.php:1161
+msgid "Category & Tag"
+msgstr "Categoría y etiqueta"
+
+#: ../classes/chronosly_templates.php:1162
+msgid "Custom"
+msgstr "Personalización"
+
+#: ../classes/chronosly_templates.php:1163
+msgid "Time"
+msgstr "Hora"
+
+#: ../classes/chronosly_templates.php:1165 ../classes/chronosly_dad_elements.php:
+#: 3743
+msgid "Image"
+msgstr "Imagen"
+
+#: ../classes/chronosly_dad_elements.php:30
+msgid "Value"
+msgstr "Valor"
+
+#: ../classes/chronosly_dad_elements.php:106
+msgid "Text before"
+msgstr "Texto antes"
+
+#: ../classes/chronosly_dad_elements.php:186
+msgid "Text after"
+msgstr "Texto después"
+
+#: ../classes/chronosly_dad_elements.php:265 ../classes/chronosly_dad_elements.
+#: php:330
+msgid "Custom Text"
+msgstr "Texto personalizado"
+
+#: ../classes/chronosly_dad_elements.php:395
+msgid "Readmore link"
+msgstr "Enlace leermás"
+
+#: ../classes/chronosly_dad_elements.php:483
+msgid "Readmore text"
+msgstr "Texto leermás"
+
+#: ../classes/chronosly_dad_elements.php:566
+msgid "Link action"
+msgstr "Acción del enlace"
+
+#: ../classes/chronosly_dad_elements.php:725
+msgid "External url"
+msgstr "URL externa"
+
+#: ../classes/chronosly_dad_elements.php:782
+msgid "Open in a new page"
+msgstr "Abrir en una nueva página"
+
+#: ../classes/chronosly_dad_elements.php:851
+msgid "Nofollow"
+msgstr "Nofollow"
+
+#: ../classes/chronosly_dad_elements.php:917
+msgid "Max chars to show"
+msgstr "Máx. carácteres mostrados"
+
+#: ../classes/chronosly_dad_elements.php:1205
+msgid "Time Format"
+msgstr "Formato de Hora"
+
+#: ../classes/chronosly_dad_elements.php:1331 ../classes/chronosly_dad_elements.
+#: php:1336 ../classes/chronosly_dad_elements.php:1446 ..
+#: classes/chronosly_dad_elements.php:1452
+msgid "All day long"
+msgstr "Todo el día"
+
+#: ../classes/chronosly_dad_elements.php:1624
+msgid "List of all events"
+msgstr "Listado de todos los eventos"
+
+#: ../classes/chronosly_dad_elements.php:1625
+msgid ""
+"Display all events for this element, is the event list content used inside "
+"Organizer, Place, Category and Calendar"
+msgstr ""
+"Muestra todos los eventos para este elemento, es el listado de eventos usado "
+"dentro de Organizador, Lugar, Categoría y Calendario"
+
+#: ../classes/chronosly_dad_elements.php:1666
+msgid "Event title"
+msgstr "Título del evento"
+
+#: ../classes/chronosly_dad_elements.php:1667
+msgid ""
+"Name of your event. This is how users will first see your event. Use "
+"something they will instantly recognize"
+msgstr ""
+"Nombre de tu evento. Es como los usuarios verán tu evento. Te recomendamos "
+"que uses un nombre que reconozcan al instante"
+
+#: ../classes/chronosly_dad_elements.php:1688 ../classes/chronosly_dad_elements.
+#: php:1764 ../classes/chronosly_dad_elements.php:1837 ..
+#: classes/chronosly_dad_elements.php:2673 ../classes/chronosly_dad_elements.php:
+#: 2762 ../classes/chronosly_dad_elements.php:2883 ..
+#: classes/chronosly_dad_elements.php:2968 ../classes/chronosly_dad_elements.php:
+#: 3043 ../classes/chronosly_dad_elements.php:3282 ..
+#: classes/chronosly_dad_elements.php:3363 ../classes/chronosly_dad_elements.php:
+#: 3448 ../classes/chronosly_dad_elements.php:3523 ..
+#: classes/chronosly_dad_elements.php:3525 ../classes/chronosly_dad_elements.php:
+#: 3763 ../classes/chronosly_dad_elements.php:4141 ..
+#: classes/chronosly_dad_elements.php:5607 ../classes/chronosly_dad_elements.php:
+#: 5687
+msgid "Show hidden boxes"
+msgstr "Mostrar cajas ocultas"
+
+#: ../classes/chronosly_dad_elements.php:1689 ../classes/chronosly_dad_elements.
+#: php:1765 ../classes/chronosly_dad_elements.php:1838 ..
+#: classes/chronosly_dad_elements.php:2674 ../classes/chronosly_dad_elements.php:
+#: 2763
+msgid "Open event page"
+msgstr "Abrir la página del evento"
+
+#: ../classes/chronosly_dad_elements.php:1690 ../classes/chronosly_dad_elements.
+#: php:1766 ../classes/chronosly_dad_elements.php:1839 ..
+#: classes/chronosly_dad_elements.php:2675 ../classes/chronosly_dad_elements.php:
+#: 2764 ../classes/chronosly_dad_elements.php:2885 ..
+#: classes/chronosly_dad_elements.php:2970 ../classes/chronosly_dad_elements.php:
+#: 3045 ../classes/chronosly_dad_elements.php:3284 ..
+#: classes/chronosly_dad_elements.php:3365 ../classes/chronosly_dad_elements.php:
+#: 3450 ../classes/chronosly_dad_elements.php:3526 ..
+#: classes/chronosly_dad_elements.php:3765 ../classes/chronosly_dad_elements.php:
+#: 4143 ../classes/chronosly_dad_elements.php:5609 ..
+#: classes/chronosly_dad_elements.php:5686
+msgid "Open external page"
+msgstr "Abrir una página externa"
+
+#: ../classes/chronosly_dad_elements.php:1691 ../classes/chronosly_dad_elements.
+#: php:1767 ../classes/chronosly_dad_elements.php:1840 ..
+#: classes/chronosly_dad_elements.php:2676 ../classes/chronosly_dad_elements.php:
+#: 2765
+msgid "Pop up event page"
+msgstr "Pop up del evento"
+
+#: ../classes/chronosly_dad_elements.php:1739
+msgid "Event description"
+msgstr "Descripción del evento"
+
+#: ../classes/chronosly_dad_elements.php:1740
+msgid ""
+"Summarize and include details about what the event will be about so users "
+"will know what they can expect of that particular event.<br/><br/>The more "
+"details you can provide, the more vivid the image of the event will be in "
+"the users mind."
+msgstr ""
+"Haz un breve resumen que incluya detalles relevantes sobre el evento, para "
+"que tu audiencia pueda conocer con más detalle la temática del evento.<br/>\n"
+"<br/>Cuanto más detalles incluyas, más fácil será, para los usuarios, "
+"hacerse una idea sobre el evento."
+
+#: ../classes/chronosly_dad_elements.php:1815
+msgid "Event excerpt"
+msgstr "Extracto del evento"
+
+#: ../classes/chronosly_dad_elements.php:1816
+msgid ""
+"Optional summary or description of an event, an event summary."
+"<br/><br/>Excerpt is used to describe events in RSS feeds and also in search "
+"results."
+msgstr ""
+"Pequeña descripción opcional de un evento, sumario de un evento.\n"
+"<br/>\n"
+"<br/>El extracto de un evento suelen usarse para dar detalles a los usuarios "
+"en las sindicaciones por RSS o en los resultados en buscadores."
+
+#: ../classes/chronosly_dad_elements.php:1887
+msgid "Custom text"
+msgstr "Texto personalizado"
+
+#: ../classes/chronosly_dad_elements.php:1888
+msgid ""
+"Add and customize some text to give customers extra information about your "
+"event.<br/>This option does not allow edit the text with bold, images or "
+"other resources. If text edititing is needed choose Custom text box"
+msgstr ""
+"Añade y personaliza un texto para proporcionar más información sobre tu "
+"evento. \n"
+"<br/>Esta opción no permite editar el texto con negrita, imágenes u otros "
+"recursos. Para editar con estas opciones se debe seleccionar la opción Caja "
+"de texto personalizado\n"
+" "
+
+#: ../classes/chronosly_dad_elements.php:1902 ../classes/chronosly_dad_elements.
+#: php:1947 ../classes/chronosly_dad_elements.php:1993
+msgid "Change me"
+msgstr "Modifícame"
+
+#: ../classes/chronosly_dad_elements.php:1932
+msgid "Custom text box"
+msgstr "Caja de texto personalizado"
+
+#: ../classes/chronosly_dad_elements.php:1933
+msgid ""
+"Add and customize some text to give customers extra information about your "
+"event.<br/>This option allows users to edit the text with bold, images or "
+"other resources"
+msgstr ""
+"Añade y personaliza un texto para proporcionar más información sobre tu "
+"evento. <br/>Esta opción permite editar el texto con negrita, imágenes u "
+"otros recursos"
+
+#: ../classes/chronosly_dad_elements.php:1977
+msgid "Custom link"
+msgstr "Enlace personalizado"
+
+#: ../classes/chronosly_dad_elements.php:1978
+msgid ""
+"Add and customize an internal or external link to give extra information or "
+"references about the event"
+msgstr ""
+"Añade y personaliza un enlace interno o externo para proporcionar más "
+"información o referencias sobre tu evento. \n"
+"\n"
+
+#: ../classes/chronosly_dad_elements.php:1992
+msgid "Link text"
+msgstr "Texto del enlace (anchor text)"
+
+#: ../classes/chronosly_dad_elements.php:2001
+msgid "Pop up inside page"
+msgstr "Pop up de la página interior"
+
+#: ../classes/chronosly_dad_elements.php:2071
+msgid "Custom code"
+msgstr "Código personalizado"
+
+#: ../classes/chronosly_dad_elements.php:2072
+msgid ""
+"Insert any WP shortcode, always compatible with the rest of your installed "
+"plugins"
+msgstr ""
+"Inserta cualquier WP shortcode, siempre será compatible con el resto tus "
+"plugins instalados"
+
+#: ../classes/chronosly_dad_elements.php:2121
+msgid "Inside box"
+msgstr "Caja interior"
+
+#: ../classes/chronosly_dad_elements.php:2122
+msgid ""
+"Insert another Drag & Drop box inside the main box for better styling of "
+"elements inside. Multiple Inside Boxes can be nested."
+msgstr ""
+"Inserta otra caja con Drag & Drop dentro de la caja principal para conseguir "
+"una mejor adaptación de los elementos interiores. Se pueden insertar tantas "
+"Cajas interiores como se necesite."
+
+#: ../classes/chronosly_dad_elements.php:2162
+msgid "Full Date"
+msgstr "Fecha completa"
+
+#: ../classes/chronosly_dad_elements.php:2163
+msgid "Set display format for start / end date at the same time"
+msgstr "Configuración de la fecha de inicio / final en un sólo paso"
+
+#: ../classes/chronosly_dad_elements.php:2217
+msgid "Full Time"
+msgstr "Hora completa"
+
+#: ../classes/chronosly_dad_elements.php:2218
+msgid "Set display format for start / end time at the same time"
+msgstr "Configuración de la hora de inicio / final en un sólo paso"
+
+#: ../classes/chronosly_dad_elements.php:2272
+msgid "Full DateTime"
+msgstr "Fecha/Hora completa"
+
+#: ../classes/chronosly_dad_elements.php:2273
+msgid "Set display format for start / end date and time at the same time"
+msgstr "Configuración de la fecha y hora de inicio / final en un sólo paso"
+
+#: ../classes/chronosly_dad_elements.php:2327
+msgid "Start date"
+msgstr "Fecha inicio"
+
+#: ../classes/chronosly_dad_elements.php:2328
+msgid "Set the start date for your event"
+msgstr "Configuración de la fecha de inicio del evento"
+
+#: ../classes/chronosly_dad_elements.php:2382
+msgid "Start hour"
+msgstr "Hora inicio"
+
+#: ../classes/chronosly_dad_elements.php:2383
+msgid "Set the start hour for your event"
+msgstr "Configuración de la hora de inicio del evento"
+
+#: ../classes/chronosly_dad_elements.php:2437
+msgid "Start DateTime"
+msgstr "Fecha/Hora inicio"
+
+#: ../classes/chronosly_dad_elements.php:2438
+msgid "Set display format for start date and time"
+msgstr "Configuración de la fecha y hora de inicio del evento"
+
+#: ../classes/chronosly_dad_elements.php:2493
+msgid "Set the end date for your event"
+msgstr "Configuración de la fecha final del evento"
+
+#: ../classes/chronosly_dad_elements.php:2546
+msgid "End hour"
+msgstr "Hora final"
+
+#: ../classes/chronosly_dad_elements.php:2547
+msgid "Set the end hour for your event"
+msgstr "Configuración de la hora final del evento"
+
+#: ../classes/chronosly_dad_elements.php:2600
+msgid "End DateTime"
+msgstr "Fecha/Hora final"
+
+#: ../classes/chronosly_dad_elements.php:2601
+msgid "Set display format for end date and time"
+msgstr "Configuración de la fecha y hora final del evento"
+
+#: ../classes/chronosly_dad_elements.php:2653
+msgid "Featured image"
+msgstr "Imagen destacada"
+
+#: ../classes/chronosly_dad_elements.php:2654
+msgid ""
+"Add a featured image to your event.<br/>You can customize your event by "
+"adding an image that will represent the event contents and will be useful "
+"for users to identify it"
+msgstr ""
+"Añade una imagen destacada para tu evento.<br/>Puedes personalizar tu evento "
+"añadiendo una imagen que se asocie rápidamente con el evento ya que será más "
+"fácil \n"
+"para tus usuarios identificar tu evento"
+
+#: ../classes/chronosly_dad_elements.php:2668 ../classes/chronosly_dad_elements.
+#: php:2757 ../classes/chronosly_dad_elements.php:3758
+msgid "Link Image"
+msgstr "Enlace de la imagen"
+
+#: ../classes/chronosly_dad_elements.php:2738
+msgid "Custom image"
+msgstr "Imagen personalizada"
+
+#: ../classes/chronosly_dad_elements.php:2739
+msgid ""
+"Add a customised image to your event.<br/>You can customize your event "
+"adding an image that will represent the event contents and will be useful "
+"for users to identify it."
+msgstr ""
+"Añade una imagen personalizada para tu evento.<br/>Puedes personalizar tu "
+"evento añadiendo una imagen que se asocie rápidamente con el evento ya que "
+"será más fácil para tus usuarios identificar tu evento"
+
+#: ../classes/chronosly_dad_elements.php:2812
+msgid "Gallery"
+msgstr "Galería"
+
+#: ../classes/chronosly_dad_elements.php:2813
+msgid ""
+"Add an image gallery to your event.<br/>You can customize your event adding "
+"an image gallery that will represent the event contents and will be useful "
+"for users to identify it.<br/><br/>This advanced setting is fully compatible "
+"with most common image gallery plugins for wordpress"
+msgstr ""
+"Añade una galería de imágenes para tu evento.<br/>Puedes personalizar tu "
+"evento añadiendo una galería de imágenes que se asocie rápidamente con el "
+"evento ya que será más fácil para tus usuarios identificar tu evento\n"
+"<br/>\n"
+"<br/>Esta configuración avanzada es totalmente compatible con la mayoría de "
+"plugins de galerías de imágenes para wordpress"
+
+#: ../classes/chronosly_dad_elements.php:2878
+msgid "Link to organizer"
+msgstr "Enlace a organizador"
+
+#: ../classes/chronosly_dad_elements.php:2886 ../classes/chronosly_dad_elements.
+#: php:2971 ../classes/chronosly_dad_elements.php:3046 ..
+#: classes/chronosly_dad_elements.php:3285
+msgid "Pop up organizer page"
+msgstr "Pop up del organizador"
+
+#: ../classes/chronosly_dad_elements.php:2941 ../classes/chronosly_dad_elements.
+#: php:3421
+msgid "Description"
+msgstr "Descripción"
+
+#: ../classes/chronosly_dad_elements.php:2969 ../classes/chronosly_dad_elements.
+#: php:3044 ../classes/chronosly_dad_elements.php:3283 ..
+#: classes/chronosly_dad_elements.php:3449
+msgid "Open organizer page"
+msgstr "Abrir página de organizador"
+
+#: ../classes/chronosly_dad_elements.php:3020 ../classes/chronosly_dad_elements.
+#: php:3500
+msgid "Excerpt"
+msgstr "Extracto del evento"
+
+#: ../classes/chronosly_dad_elements.php:3148 ../classes/chronosly_dad_elements.
+#: php:3629
+msgid "Email"
+msgstr "eMail"
+
+#: ../classes/chronosly_dad_elements.php:3262
+msgid "Logo"
+msgstr "Logo"
+
+#: ../classes/chronosly_dad_elements.php:3364 ../classes/chronosly_dad_elements.
+#: php:3524 ../classes/chronosly_dad_elements.php:3764 ..
+#: classes/chronosly_dad_elements.php:4142
+msgid "Open place page"
+msgstr "Abrir página de lugar"
+
+#: ../classes/chronosly_dad_elements.php:3366 ../classes/chronosly_dad_elements.
+#: php:3451 ../classes/chronosly_dad_elements.php:3527 ..
+#: classes/chronosly_dad_elements.php:3766 ../classes/chronosly_dad_elements.php:
+#: 4144
+msgid "Pop up place page"
+msgstr "Pop up del lugar"
+
+#: ../classes/chronosly_dad_elements.php:3439
+msgid "Show readmore"
+msgstr "Mostrar leermás"
+
+#: ../classes/chronosly_dad_elements.php:3443 ../classes/chronosly_dad_elements.
+#: php:3518
+msgid "more"
+msgstr "más"
+
+#: ../classes/chronosly_dad_elements.php:3824
+msgid "state"
+msgstr "estado"
+
+#: ../classes/chronosly_dad_elements.php:3932
+msgid "country"
+msgstr "país"
+
+#: ../classes/chronosly_dad_elements.php:4039
+msgid "gmap"
+msgstr "gmap"
+
+#: ../classes/chronosly_dad_elements.php:4088 ../classes/chronosly_dad_elements.
+#: php:4092
+msgid "Loading map"
+msgstr "Cargando mapa..."
+
+#: ../classes/chronosly_dad_elements.php:4193
+msgid "List of all tickets"
+msgstr "Lista de todas las entradas"
+
+#: ../classes/chronosly_dad_elements.php:4194
+msgid "Display all tickets filled for this event in a predefined format"
+msgstr "Mostrar todas las entradas para este evento en formato predeterminado"
+
+#: ../classes/chronosly_dad_elements.php:4271
+msgid "Ticket"
+msgstr "Entrada"
+
+#: ../classes/chronosly_dad_elements.php:4306
+msgid "Sold out"
+msgstr "Agotado"
+
+#: ../classes/chronosly_dad_elements.php:4308 ../classes/chronosly_dad_elements.
+#: php:4309 ../classes/chronosly_dad_elements.php:5473
+msgid "Buy"
+msgstr "Comprar"
+
+#: ../classes/chronosly_dad_elements.php:4312
+msgid "Note"
+msgstr "Nota"
+
+#: ../classes/chronosly_dad_elements.php:5180
+msgid "Min per user"
+msgstr "Mín. por usuario"
+
+#: ../classes/chronosly_dad_elements.php:5232
+msgid "Max per user"
+msgstr "Máx. por usuario"
+
+#: ../classes/chronosly_dad_elements.php:5286
+msgid "Start time"
+msgstr "Hora de inicio"
+
+#: ../classes/chronosly_dad_elements.php:5346
+msgid "End time"
+msgstr "Hora de final"
+
+#: ../classes/chronosly_dad_elements.php:5403
+msgid "Notes"
+msgstr "Notas"
+
+#: ../classes/chronosly_dad_elements.php:5457
+msgid "Buy link"
+msgstr "Enlace de Comprar"
+
+#: ../classes/chronosly_dad_elements.php:5472
+msgid "Buy text"
+msgstr "Texto de Comprar"
+
+#: ../classes/chronosly_dad_elements.php:5586
+msgid "Category Name"
+msgstr "Nombre ccategoría"
+
+#: ../classes/chronosly_dad_elements.php:5608 ../classes/chronosly_dad_elements.
+#: php:5685
+msgid "Open category page"
+msgstr "Abrir página de Categoría"
+
+#: ../classes/chronosly_dad_elements.php:5661
+msgid "Category Description"
+msgstr "Descripción de categoría"
+
+#: ../classes/chronosly_dad_elements.php:5737
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../classes/chronosly_widgets.php:10
+msgid "Chronosly widget for Events,Calendar, Organizers and Places"
+msgstr "Widget de Chronosly para Eventos, Calendario, Organizadores y Lugares"
+
+#: ../classes/chronosly_widgets.php:187
+msgid "Title:"
+msgstr "Título:"
+
+#: ../classes/chronosly_widgets.php:191
+msgid "Type:"
+msgstr "Tipo:"
+
+#: ../classes/chronosly_widgets.php:199
+msgid "Single view:"
+msgstr "Vista individual:"
+
+#: ../classes/chronosly_widgets.php:203
+msgid "Ids:"
+msgstr "Identificadores:"
+
+#: ../classes/chronosly_widgets.php:207
+msgid "Exclude:"
+msgstr "Excluir: "
+
+#: ../classes/chronosly_widgets.php:211
+msgid "Category:"
+msgstr "Categoría:"
+
+#: ../classes/chronosly_widgets.php:216
+msgid "Organizer:"
+msgstr "Organizador:"
+
+#: ../classes/chronosly_widgets.php:223
+msgid "Place:"
+msgstr "Lugar:"
+
+#: ../classes/chronosly_widgets.php:228
+msgid "Upcoming:"
+msgstr "Próximos:"
+
+#: ../classes/chronosly_widgets.php:232
+msgid "Year:"
+msgstr "Año:"
+
+#: ../classes/chronosly_widgets.php:236
+msgid "Month:"
+msgstr "Mes:"
+
+#: ../classes/chronosly_widgets.php:240
+msgid "Week:"
+msgstr "Semana:"
+
+#: ../classes/chronosly_widgets.php:244
+msgid "Day (Y-m-d):"
+msgstr "Día (Y-m-d):"
+
+#: ../classes/chronosly_widgets.php:248
+msgid "Limit:"
+msgstr "Límite:"
+
+#: ../classes/chronosly_widgets.php:252
+msgid "Pagination"
+msgstr "Paginación"
+
+#: ../classes/chronosly_widgets.php:256
+msgid "Small container (like sidebar):"
+msgstr "Pequeño contenedor (como barra lateral)"
+
+#: ../classes/chronosly_mk_templates.php:46 ../classes/chronosly_mk_templates.php:
+#: 54
+msgid "Download Templates"
+msgstr "Descarga de Plantillas"
+
+#: ../classes/chronosly_mk_templates.php:90 ../classes/chronosly_mk_addons.php:91
+msgid "author"
+msgstr "autor"
+
+#: ../classes/chronosly_mk_templates.php:91 ../classes/chronosly_mk_addons.php:92
+msgid "price"
+msgstr "precio"
+
+#: ../classes/chronosly_mk_templates.php:92 ../classes/chronosly_mk_addons.php:94
+msgid "download"
+msgstr "descargar"
+
+#: ../classes/chronosly_mk_addons.php:46 ../classes/chronosly_mk_addons.php:54
+msgid "Download Addons"
+msgstr "Descargar Addons"
+
+#: ../classes/chronosly_mk_addons.php:93
+msgid "settings"
+msgstr "config"
+
+#: ../classes/chronosly_mk_addons.php:95
+msgid "info"
+msgstr "info"
+
+#: ../classes/chronosly_settings.php:247
+msgid "Edit Templates"
+msgstr ""
+"Plantillas \n"
+"Edición"
+
+#: ../classes/chronosly_settings.php:264
+msgid "Addons settings"
+msgstr ""
+"Addons \n"
+"Configuración"
+
+#: ../classes/chronosly_settings.php:274
+msgid "Support"
+msgstr "Ayuda"
+
+#: ../classes/chronosly_settings.php:331
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Acción no completada. Por favor recarga la página y prueba de nuevo."
+
+#: ../classes/chronosly_settings.php:428
+msgid "Main page"
+msgstr "Página principal"
+
+#: ../classes/chronosly_settings.php:454
+msgid "Version"
+msgstr "Versión"
+
+#: ../classes/chronosly_settings.php:455
+msgid "required update to"
+msgstr "es necesario actualizar a"
+
+#: ../classes/chronosly_settings.php:521
+msgid "newer version"
+msgstr "versión actualizada"
+
+#: ../classes/chronosly_settings.php:583
+msgid "Without"
+msgstr "Sín"
+
+#: ../classes/chronosly_settings.php:601
+msgid "Individualy edited"
+msgstr "Editado individualmente"
+
+#: ../classes/chronosly_settings.php:738
+msgid "template installed"
+msgstr "Template instalado correctamente"
+
+#: ../classes/chronosly_settings.php:743
+msgid "There was an error installing this template"
+msgstr "Ha surgido un error cuando se instalaba esta plantilla"
+
+#: ../classes/chronosly_settings.php:748
+msgid "The file type that you've uploaded is not a Chronosly Template ZIP."
+msgstr ""
+"El formato del archivo que se ha subido no corresponde a una Plantilla "
+"Chronosly en formato ZIP."
+
+#: ../classes/chronosly_settings.php:769
+msgid "license"
+msgstr "licéncia"
+
+#: ../classes/chronosly_paint.php:100
+msgid "Text size"
+msgstr "Tamaño de texto"
+
+#: ../classes/chronosly_paint.php:135
+msgid "Font family"
+msgstr "Familia de fuente"
+
+#: ../classes/chronosly_paint.php:154
+msgid "Bold"
+msgstr "Negrita"
+
+#: ../classes/chronosly_paint.php:172
+msgid "Uppercase"
+msgstr "Mayúscula"
+
+#: ../classes/chronosly_paint.php:198
+msgid "Align"
+msgstr "Alinear"
+
+#: ../classes/chronosly_paint.php:225
+msgid "Decoration"
+msgstr "Decoración"
+
+#: ../classes/chronosly_paint.php:247
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: ../classes/chronosly_paint.php:270
+msgid "Round"
+msgstr "Redondeado"
+
+#: ../classes/chronosly_paint.php:298
+msgid "Padding"
+msgstr "Padding"
+
+#: ../classes/chronosly_paint.php:323
+msgid "Margin"
+msgstr "Margin"
+
+#: ../classes/chronosly_paint.php:345
+msgid "Border color"
+msgstr "Color del borde"
+
+#: ../classes/chronosly_paint.php:369
+msgid "Border size"
+msgstr "Tamaño del borde"
+
+#: ../classes/chronosly_paint.php:397
+msgid "Border style"
+msgstr "Estilo del borde"
+
+#: ../languages/custom_strings.php:6
+msgid "Buy tickets"
+msgstr "Comprar entradas"

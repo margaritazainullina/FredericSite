@@ -1,0 +1,86 @@
+<style id='style'>
+.ev-{{id}} .ev-box .ev-item.share_box a {background:#4b4c4e!important;}
+.ev-{{id}} .ev-box.ch-featured .ev-item.share_box a {background:#dcddde!important;}
+.ev-{{id}} .ev-box .ev-item.share_box a {background:#4b4c4e!important;}
+.ev-{{id}} .ev-box.ch-featured .ev-item.share_box a {background:#dcddde!important;}
+</style>
+<div  base="default" class="chronosly perfil2 ch-default  ch-front ch-dad7 ev-{{id}} {{size}} ">
+
+	<div class="ev-box both " style="width:23.5%;clear:none;float:left;padding:0%;">
+
+         <div class='ev-item organizer_logo'  style='width:98.93048128342245%;clear:none;float:left;padding:0%;margin:0%;'>
+            <div class='ev-data organizer_logo'>
+                              <a href='{{organizer_link | id {{organizer_id | id 0}}}}' class='ch-readmore'><span class='ch-organizer-{{organizer_id | id 0}}'>{{organizer_image | id 0 }}</span></a>
+              </div>
+         
+             <div class='ch-clear'></div>
+         </div>
+		<div class="ch-clear"></div>
+	</div>
+			
+	<div class="ev-box both " style="width:75.02153316106805%;float:right;clear:none;color:#ffffff;background-color:#4b4c4e;padding:0%;padding-left:2%;">
+
+               <div class='ev-item organizer_name'  style='width:98.97260273972603%;clear:none;float:left;font-size:20px;line-height:24px;text-transform:uppercase;'>
+                  <div class='ev-data organizer_name'>
+                                    <a href='{{organizer_link | id {{organizer_id | id 0}}}}' class='ch-readmore'><span class='ch-organizer-{{organizer_id | id 0}}'>{{organizer_name | id 0 | filter the_title}}</span></a>
+                    </div>
+               
+                   <div class='ch-clear'></div>
+               </div>
+		<div class="ch-clear"></div>
+	</div>
+			
+	<div class="ev-box normal " style="width:75%;float:right;clear:none;color:#4b4c4e;background-color:#f1f2f2;padding:2%;">
+
+                     <div class='ev-item organizer_description'  style='width:97.88732394366197%;clear:none;float:left;'>
+                        <div class='ev-data organizer_description'>
+                                          {{organizer_description | id 0  | filter the_content | shorten_text 400}}
+                          </div>
+                     
+                         <div class='ch-clear'></div>
+                     </div>
+                     <div class='ev-item custom_link'  style='width:auto;clear:none;float:none;height:auto;color:#ffffff;font-size:32px;line-height:36px;font-weight:bold;text-align:center;text-decoration:none;background-color:#dcddde;padding:0px 8px;position:absolute;bottom:0px;right:0px;'>
+                        <div class='ev-data custom_link'>
+                                 <a href="javascript:void(null)" class="ch-readmore" onclick='ev_slide("{{id}}", this)'><span class="ch-more">{{translate | +}}</span></a>
+                          </div>
+                     
+                         <div class='ch-clear'></div>
+                     </div>
+		<div class="ch-clear"></div>
+	</div>
+			
+	<div class="ev-box ch-hidden " style="width:75%;float:right;clear:none;color:#4b4c4e;background-color:#f1f2f2;padding:2%;">
+
+                           <div class='ev-item organizer_description'  style='width:97.7112676056338%;clear:none;float:left;'>
+                              <div class='ev-data organizer_description'>
+                                                {{organizer_description | id 0  | filter the_content | shorten_text }}
+                                </div>
+                           
+                               <div class='ch-clear'></div>
+                           </div>
+                           <div class='ev-item share_box'  style='color:#F1F2F2;'>
+                              <div class='ev-data share_box'>
+                                             {{share_box | share_fb  | share_tw  | share_in  | share_go  | share_pi  | share_ics }}
+                                </div>
+                           
+                               <div class='ch-clear'></div>
+                           </div>
+                           <div class='ev-item events_list'  style=''>
+                              <div class='ev-data events_list'>
+                           {{event_list}}
+                                </div>
+                           
+                               <div class='ch-clear'></div>
+                           </div>
+                           <div class='ev-item custom_link'  style='width:auto;clear:none;float:none;height:auto;color:#ffffff;font-size:36px;line-height:40px;font-weight:bold;text-align:center;text-decoration:none;background-color:#dcddde;padding:0px 10px;padding-bottom:5px;line-height:32px;position:absolute;right:0px;bottom:0px;'>
+                              <div class='ev-data custom_link'>
+                                       <a href="javascript:void(null)" class="ch-readmore" onclick='ev_slide("{{id}}", this)'><span class="ch-more">{{translate | -}}</span></a>
+                                </div>
+                           
+                               <div class='ch-clear'></div>
+                           </div>
+		<div class="ch-clear"></div>
+	</div>
+			
+    <div style="clear:both;"></div>
+</div>

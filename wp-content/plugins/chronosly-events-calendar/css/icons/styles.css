@@ -1,0 +1,138 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "chronosly";
+  src:url("fonts/chronosly.eot");
+  src:url("fonts/chronosly.eot?#iefix") format("embedded-opentype"),
+    url("fonts/chronosly.woff") format("woff"),
+    url("fonts/chronosly.ttf") format("truetype"),
+    url("fonts/chronosly.svg#chronosly") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "chronosly" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ch-header [class^="icon-"]:before,
+.ch-header [class*=" icon-"]:before,
+.chronosly-content-block [class^="icon-"]:before,
+.chronosly-content-block [class*=" icon-"]:before {
+  font-family: "chronosly" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ch-header .icon-location:before, 
+.chronosly-content-block .icon-location:before {
+  content: "a";
+}
+.ch-header .icon-comment-discussion:before ,
+.chronosly-content-block .icon-comment-discussion:before {
+  content: "b";
+}
+.ch-header .icon-alert:before ,
+.chronosly-content-block  .icon-alert:before {
+  content: "c";
+}
+.ch-header .icon-graph:before ,
+.chronosly-content-block  .icon-graph:before {
+  content: "d";
+}
+.ch-header .icon-info:before ,
+.chronosly-content-block  .icon-info:before {
+  content: "e";
+}
+.ch-header .icon-clock:before ,
+.chronosly-content-block  .icon-clock:before {
+  content: "f";
+}
+.ch-header .icon-calendar:before ,
+.chronosly-content-block  .icon-calendar:before {
+  content: "g";
+}
+.ch-header .icon-chat-bubble-two:before ,
+.chronosly-content-block  .icon-chat-bubble-two:before {
+  content: "h";
+}
+.ch-header .icon-chat-bubble:before ,
+.chronosly-content-block  .icon-chat-bubble:before {
+  content: "i";
+}
+.ch-header .icon-comment:before ,
+.chronosly-content-block  .icon-comment:before {
+  content: "j";
+}
+.ch-header .icon-clock-1:before ,
+.chronosly-content-block  .icon-clock-1:before {
+  content: "k";
+}
+.ch-header .icon-camera:before ,
+.chronosly-content-block  .icon-camera:before {
+  content: "l";
+}
+.ch-header .icon-check-mark-circle-two:before ,
+.chronosly-content-block  .icon-check-mark-circle-two:before {
+  content: "n";
+}
+.ch-header .icon-check-mark-circle:before ,
+.chronosly-content-block  .icon-check-mark-circle:before {
+  content: "m";
+}
+.ch-header .icon-clock-2:before ,
+.chronosly-content-block  .icon-clock-2:before {
+  content: "o";
+}
+.ch-header .icon-linkedin:before ,
+.chronosly-content-block  .icon-linkedin:before {
+  content: "p";
+}
+.ch-header .icon-google-plus:before ,
+.chronosly-content-block  .icon-google-plus:before {
+  content: "q";
+}
+.ch-header .icon-pinterest:before ,
+.chronosly-content-block  .icon-pinterest:before {
+  content: "r";
+}
+.ch-header .icon-facebook:before ,
+.chronosly-content-block  .icon-facebook:before {
+  content: "s";
+}
+.ch-header .icon-youtube:before ,
+.chronosly-content-block  .icon-youtube:before {
+  content: "t";
+}
+.ch-header .icon-tumblr:before ,
+.chronosly-content-block  .icon-tumblr:before {
+  content: "u";
+}
+.ch-header .icon-twitter:before ,
+.chronosly-content-block  .icon-twitter:before {
+  content: "v";
+}
+.ch-header .icon-spotify:before ,
+.chronosly-content-block  .icon-spotify:before {
+  content: "w";
+}
+.ch-header .icon-star:before ,
+.chronosly-content-block  .icon-star:before {
+  content: "x";
+}

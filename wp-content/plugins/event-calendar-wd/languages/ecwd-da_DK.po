@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: event_calendar_wd\n"
+"POT-Creation-Date: 2016-02-05 15:04+0100\n"
+"PO-Revision-Date: 2016-02-09 14:29+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: views/admin\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: includes/ecwd-cpt-class.php\n"
+"X-Poedit-SearchPathExcluded-3: includes/register-settings.php\n"
+"X-Poedit-SearchPathExcluded-4: includes/ecwd-ical-events-class.php\n"
+"X-Poedit-SearchPathExcluded-5: includes/ecwd-google-events-class.php\n"
+"X-Poedit-SearchPathExcluded-6: includes/ecwd-facebook-events-class.php\n"
+"X-Poedit-SearchPathExcluded-7: ecwd_admin_class.php\n"
+"X-Poedit-SearchPathExcluded-8: includes/ecwd-event-class.php\n"
+
+#: includes/calendar-class.php:175 includes/calendar-class.php:176
+#: views/widgets.php:168
+msgid "Month"
+msgstr "Måned"
+
+#: includes/calendar-class.php:177 views/widgets.php:169
+msgid "List"
+msgstr "Liste"
+
+#: includes/calendar-class.php:179
+msgid "Week"
+msgstr "Uge"
+
+#: includes/calendar-class.php:183
+msgid "Day"
+msgstr "Dag"
+
+#: includes/calendar-class.php:186
+msgid "Map"
+msgstr "Kort"
+
+#: includes/calendar-class.php:188
+msgid "4 Days"
+msgstr "4 dage"
+
+#: includes/calendar-class.php:191
+msgid "Posterboard"
+msgstr "Whiteboard"
+
+#: includes/calendar-class.php:383 includes/calendar-class.php:417
+#: includes/calendar-class.php:572 includes/calendar-class.php:1181
+#: includes/calendar-class.php:1330 includes/ecwd-functions.php:360
+#: views/ecwd-event-content.php:76 views/ecwd-event-content.php:158
+#: views/ecwd-organizer-content.php:145 views/ecwd-venue-content.php:178
+#: views/single-event.php:151 views/single-event.php:247
+#: views/single-event.php:487
+msgid "All day"
+msgstr "Hele dagen"
+
+#: includes/calendar-class.php:440 includes/calendar-class.php:520
+#: includes/calendar-class.php:1386
+msgid "No events"
+msgstr "Ingen events"
+
+#: includes/calendar-class.php:644
+msgid "No Events"
+msgstr "Ingen Events"
+
+#: includes/calendar-class.php:1256
+msgid "More events"
+msgstr "Flere events"
+
+#: includes/ecwd-cpt-filter.php:67
+msgid "From"
+msgstr "Fra"
+
+#: includes/ecwd-cpt-filter.php:74
+msgid "To"
+msgstr "Til"
+
+#: includes/ecwd-display-class.php:876 includes/ecwd-display-class.php:882
+#: includes/ecwd-display-class.php:900 includes/ecwd-display-class.php:917
+#: includes/texts.php:60
+msgid "Repeat every"
+msgstr "Gentag hver"
+
+#: includes/ecwd-display-class.php:876 includes/texts.php:66
+msgid "days"
+msgstr "dage"
+
+#: includes/ecwd-display-class.php:878 includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Gentag hver dag"
+
+#: includes/ecwd-display-class.php:882 includes/texts.php:67
+msgid "weeks"
+msgstr "uger"
+
+#: includes/ecwd-display-class.php:884 includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Gentag hver uge"
+
+#: includes/ecwd-display-class.php:889
+msgid "on"
+msgstr "den"
+
+#: includes/ecwd-display-class.php:900 includes/texts.php:68
+msgid "months"
+msgstr "måneder"
+
+#: includes/ecwd-display-class.php:902 includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Gentag hver måned"
+
+#: includes/ecwd-display-class.php:907 includes/ecwd-display-class.php:931
+msgid "on the same day"
+msgstr "på den samme dag"
+
+#: includes/ecwd-display-class.php:912 includes/ecwd-display-class.php:936
+msgid "on the"
+msgstr "på den"
+
+#: includes/ecwd-display-class.php:917 includes/texts.php:69
+msgid "years"
+msgstr "år"
+
+#: includes/ecwd-display-class.php:919 includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Gentag hvert år"
+
+#: includes/ecwd-display-class.php:940 includes/texts.php:70
+msgid "until"
+msgstr "indtil"
+
+#: includes/ecwd-functions.php:8
+msgid "Loading..."
+msgstr "Arbejder..."
+
+#: includes/ecwd-functions.php:439 includes/texts.php:53
+msgid "DAYS"
+msgstr "DAGE"
+
+#: includes/ecwd-functions.php:440 includes/texts.php:54
+msgid "HOURS"
+msgstr "TIMER"
+
+#: includes/ecwd-functions.php:441 includes/texts.php:55
+msgid "MINUTES"
+msgstr "MINUTTER"
+
+#: includes/ecwd-functions.php:442 includes/texts.php:56
+msgid "SECONDS"
+msgstr "SEKUNDER"
+
+#: includes/texts.php:2
+msgid "January"
+msgstr "januar"
+
+#: includes/texts.php:3
+msgid "February"
+msgstr "februar"
+
+#: includes/texts.php:4
+msgid "March"
+msgstr "marts"
+
+#: includes/texts.php:5
+msgid "April"
+msgstr "april"
+
+#: includes/texts.php:6
+msgid "May"
+msgstr "maj"
+
+#: includes/texts.php:7
+msgid "June"
+msgstr "juni"
+
+#: includes/texts.php:8
+msgid "July"
+msgstr "juli"
+
+#: includes/texts.php:9
+msgid "August"
+msgstr "august"
+
+#: includes/texts.php:10
+msgid "September"
+msgstr "september"
+
+#: includes/texts.php:11
+msgid "October"
+msgstr "oktober"
+
+#: includes/texts.php:12
+msgid "November"
+msgstr "november"
+
+#: includes/texts.php:13
+msgid "December"
+msgstr "december"
+
+#: includes/texts.php:15
+msgid "Sunday"
+msgstr "søndag"
+
+#: includes/texts.php:16
+msgid "Monday"
+msgstr "mandag"
+
+#: includes/texts.php:17
+msgid "Tuesday"
+msgstr "tirsdag"
+
+#: includes/texts.php:18
+msgid "Wednesday"
+msgstr "onsdag"
+
+#: includes/texts.php:19
+msgid "Thursday"
+msgstr "torsdag"
+
+#: includes/texts.php:20
+msgid "Friday"
+msgstr "fredag"
+
+#: includes/texts.php:21
+msgid "Saturday"
+msgstr "lørdag"
+
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "søn"
+
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "man"
+
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "tir"
+
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "ons"
+
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "tor"
+
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "fre"
+
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "lør"
+
+#: includes/texts.php:34
+msgid "Su"
+msgstr "søn"
+
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "man"
+
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "tir"
+
+#: includes/texts.php:37
+msgid "We"
+msgstr "ons"
+
+#: includes/texts.php:38
+msgid "Th"
+msgstr "tor"
+
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "fre"
+
+#: includes/texts.php:40
+msgid "Sa"
+msgstr "lør"
+
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "Vis filtre"
+
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "skjul filtre"
+
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "nulstil filtre"
+
+#: includes/texts.php:48
+msgid "Days"
+msgstr "Dage"
+
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "Kategorier"
+
+#: includes/texts.php:50
+msgid "Venues"
+msgstr "Arrangementer"
+
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "Denne event er lige startet"
+
+#: includes/texts.php:72
+msgid "Sundays"
+msgstr "Søndage"
+
+#: includes/texts.php:73
+msgid "Mondays"
+msgstr "Mandage"
+
+#: includes/texts.php:74
+msgid "Tuesdays"
+msgstr "Tirsdage"
+
+#: includes/texts.php:75
+msgid "Wednesdays"
+msgstr "Onsdage"
+
+#: includes/texts.php:76
+msgid "Thursdays"
+msgstr "Torsdage"
+
+#: includes/texts.php:77
+msgid "Fridays"
+msgstr "Fredage"
+
+#: includes/texts.php:78
+msgid "Saturdays"
+msgstr "Lørdage"
+
+#: includes/texts.php:80
+msgid "Jan"
+msgstr "jan"
+
+#: includes/texts.php:81
+msgid "Feb"
+msgstr "feb"
+
+#: includes/texts.php:82
+msgid "Mar"
+msgstr "mar"
+
+#: includes/texts.php:83
+msgid "Apr"
+msgstr "apr"
+
+#: includes/texts.php:84
+msgid "may"
+msgstr "maj"
+
+#: includes/texts.php:85
+msgid "Jun"
+msgstr "jun"
+
+#: includes/texts.php:86
+msgid "Jul"
+msgstr "jul"
+
+#: includes/texts.php:87
+msgid "Aug"
+msgstr "aug"
+
+#: includes/texts.php:88
+msgid "Sep"
+msgstr "sep"
+
+#: includes/texts.php:89
+msgid "Oct"
+msgstr "okt"
+
+#: includes/texts.php:90
+msgid "Nov"
+msgstr "nov"
+
+#: includes/texts.php:91
+msgid "Dec"
+msgstr "dec"
+
+#: views/ecwd-event-content.php:67 views/ecwd-event-content.php:153
+#: views/single-event.php:142 views/single-event.php:242
+msgid "Date"
+msgstr "Dato"
+
+#: views/ecwd-event-content.php:91 views/single-event.php:170
+msgid "Url"
+msgstr "URL"
+
+#: views/ecwd-event-content.php:97 views/single-event.php:177
+msgid "Organizers"
+msgstr "Organisatorer"
+
+#: views/ecwd-organizer-content.php:109
+msgid "upcoming events"
+msgstr "Kommende events"
+
+#: views/ecwd-venue-content.php:141
+msgid "events"
+msgstr "events"
+
+#: views/single-event.php:190
+msgid "Venue"
+msgstr "Arrangement"
+
+#: views/single-event.php:200
+msgid "Location"
+msgstr "Lokation"
+
+#: views/single-event.php:449
+msgid "Related events"
+msgstr "Relaterede events"

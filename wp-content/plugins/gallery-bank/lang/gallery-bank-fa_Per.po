@@ -1,0 +1,749 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery-Bank\n"
+"POT-Creation-Date: 2014-11-17 12:31+0530\n"
+"PO-Revision-Date: 2016-02-09 10:55+0330\n"
+"Last-Translator: \n"
+"Language-Team: CMU <aspclan4ever@gmail.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: C:/xampp/htdocs/Gallery-Testing/wp-content/plugins/"
+"gallery-bank\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: front_views/gallery-bank-shortcode.php:4
+msgid "Insert Gallery Bank Shortcode"
+msgstr "شورت کد بانک گالری را وارد کنید."
+
+#: front_views/gallery-bank-shortcode.php:6
+msgid "Select an album below to add it to your post or page."
+msgstr "آلبومی را انتخاب کنید تا به صفحه یا پست اضافه شود. "
+
+#: front_views/gallery-bank-shortcode.php:11
+msgid "Gallery Type"
+msgstr "نوع گالری"
+
+#: front_views/gallery-bank-shortcode.php:13
+msgid "Albums with Images"
+msgstr "آلبوم های دارای عکس"
+
+#: front_views/gallery-bank-shortcode.php:15
+msgid "Only Images"
+msgstr "فقط عکس"
+
+#: front_views/gallery-bank-shortcode.php:18
+msgid "Album Format"
+msgstr "فرمت آلبوم"
+
+#: front_views/gallery-bank-shortcode.php:20
+msgid "Select Album Format"
+msgstr "فرمت آلبوم را انتخاب کنید"
+
+#: front_views/gallery-bank-shortcode.php:27
+msgid "Select Album"
+msgstr "آلبوم را انتخاب کنید"
+
+#: front_views/gallery-bank-shortcode.php:29
+msgid "Select an Album"
+msgstr "آلبومی را انتخاب کنید"
+
+#: front_views/gallery-bank-shortcode.php:63
+msgid "Gallery Format"
+msgstr "فرمت گالری"
+
+#: front_views/gallery-bank-shortcode.php:65
+msgid "Select Gallery Format "
+msgstr "فرمت گالری را انتخاب کنید"
+
+#: front_views/gallery-bank-shortcode.php:74 views/album-preview.php:47
+#: views/images-sorting.php:240
+msgid "Images in Row"
+msgstr "عکس در هر ردیف"
+
+#: front_views/gallery-bank-shortcode.php:79
+msgid "Image Width"
+msgstr "عرض عکس"
+
+#: front_views/gallery-bank-shortcode.php:86 views/album-sorting.php:190
+msgid "Albums in Row"
+msgstr "آلبوم در هر ردیف"
+
+#: front_views/gallery-bank-shortcode.php:91
+msgid "Text Format"
+msgstr "فرمت متن"
+
+#: front_views/gallery-bank-shortcode.php:93
+msgid "Select Format "
+msgstr "فرمت را انتخاب کنید"
+
+#: front_views/gallery-bank-shortcode.php:100
+msgid "Special Effects"
+msgstr "افکت های ویژه"
+
+#: front_views/gallery-bank-shortcode.php:122
+msgid "Animation Effects"
+msgstr "افکت های انیمیشنی"
+
+#: front_views/gallery-bank-shortcode.php:175
+msgid "Show Responsive Gallery"
+msgstr "گالری رسپانسیو"
+
+#: front_views/gallery-bank-shortcode.php:179
+msgid "Show Album Title"
+msgstr "سرتیتر آلبوم"
+
+#: front_views/gallery-bank-shortcode.php:184
+msgid "Insert Album"
+msgstr "آلبوم وارد کنید"
+
+#: front_views/gallery-bank-shortcode.php:187
+msgid "Cancel"
+msgstr "انصراف"
+
+#: front_views/gallery-bank-shortcode.php:499
+msgid "Please select an Album"
+msgstr "لطفا آلبومی انتخاب کنید"
+
+#: front_views/gallery-bank-shortcode.php:503
+msgid "Please select an Album Format"
+msgstr "لطفا یک فرمت آلبوم انتخاب کنید"
+
+#: front_views/gallery-bank-shortcode.php:507
+msgid "Please select a Gallery Images Format"
+msgstr "لطفا یک فرمت عکس گالری انتخاب کنید"
+
+#: front_views/gallery-bank-shortcode.php:511
+msgid "Please select a Text Format for the Gallery"
+msgstr "لطفا یک فرمت برای متن های گالری انتخاب کنید"
+
+#: gallery-bank.php:100 gallery-bank.php:173 gallery-bank.php:246
+msgid "<img src=\""
+msgstr ""
+
+#: gallery-bank.php:102 gallery-bank.php:175 gallery-bank.php:248
+msgid "/wp-admin/admin.php?page=gallery_bank"
+msgstr ""
+
+#: gallery-bank.php:109 gallery-bank.php:182 gallery-bank.php:255
+#: lib/gallery-bank-class.php:16 lib/gallery-bank-class.php:31
+#: lib/gallery-bank-class.php:46 views/header.php:153 views/header.php:167
+#: views/header.php:181
+msgid "Dashboard"
+msgstr "داشبرد"
+
+#: gallery-bank.php:117 gallery-bank.php:190 gallery-bank.php:263
+#: views/dashboard.php:129
+msgid "Add New Album"
+msgstr "آلبوم جدید"
+
+#: gallery-bank.php:125 gallery-bank.php:198 gallery-bank.php:271
+#: lib/gallery-bank-class.php:17 lib/gallery-bank-class.php:32
+#: lib/gallery-bank-class.php:47 views/dashboard.php:154 views/header.php:154
+#: views/header.php:168 views/header.php:182
+msgid "Short-Codes"
+msgstr "شورتکد ها"
+
+#: gallery-bank.php:132 gallery-bank.php:205 gallery-bank.php:278
+#: lib/gallery-bank-class.php:18 lib/gallery-bank-class.php:33
+#: lib/gallery-bank-class.php:48 views/header.php:155 views/header.php:169
+#: views/header.php:183
+msgid "Album Sorting"
+msgstr "مرتب سازی آلبوم"
+
+#: gallery-bank.php:139 gallery-bank.php:212 gallery-bank.php:285
+#: lib/gallery-bank-class.php:19 lib/gallery-bank-class.php:34
+#: lib/gallery-bank-class.php:49 views/header.php:156 views/header.php:170
+#: views/header.php:184 views/settings.php:276
+msgid "Global Settings"
+msgstr "تنظیمات عمومی"
+
+#: gallery-bank.php:146 gallery-bank.php:219 gallery-bank.php:292
+#: lib/gallery-bank-class.php:20 lib/gallery-bank-class.php:35
+#: lib/gallery-bank-class.php:50 views/gallery-bank-system-report.php:29
+#: views/header.php:157 views/header.php:171
+msgid "System Status"
+msgstr "وضعیت سیستم"
+
+#: gallery-bank.php:153 gallery-bank.php:226 gallery-bank.php:299
+#: lib/gallery-bank-class.php:21 lib/gallery-bank-class.php:36
+#: lib/gallery-bank-class.php:51 views/header.php:81 views/header.php:158
+#: views/header.php:172 views/header.php:185
+msgid "Recommendations"
+msgstr "پیشنهاد ها"
+
+#: gallery-bank.php:160 gallery-bank.php:233 gallery-bank.php:306
+#: lib/gallery-bank-class.php:22 lib/gallery-bank-class.php:37
+#: lib/gallery-bank-class.php:52 views/header.php:159 views/header.php:173
+#: views/header.php:186 views/purchase_pro_version.php:34
+msgid "Premium Editions"
+msgstr "نسخه پرمیوم"
+
+#: gallery-bank.php:167 gallery-bank.php:240 gallery-bank.php:313
+#: lib/gallery-bank-class.php:23 lib/gallery-bank-class.php:38
+#: lib/gallery-bank-class.php:53 views/header.php:86 views/header.php:160
+#: views/header.php:174 views/header.php:187
+msgid "Our Other Services"
+msgstr "دیگر خدمات ما"
+
+#: gallery-bank.php:327
+msgid "View Gallery Bank Documentation"
+msgstr "تماشای اسناد بانک گالری"
+
+#: gallery-bank.php:327
+msgid "Docs"
+msgstr "اسناد"
+
+#: gallery-bank.php:328
+msgid "View Gallery Bank Premium Editions"
+msgstr "تماشای نسخه پرمیوم بانک گالری"
+
+#: gallery-bank.php:328
+msgid "Go for Premium!"
+msgstr "پرمیوم شوید"
+
+#: lib/add-new-album-class.php:44 views/edit-album.php:346
+#: views/edit-album.php:353
+msgid " Set as Album Cover"
+msgstr "انتخاب به عنوان کاور آلبوم"
+
+#: lib/add-new-album-class.php:47 views/edit-album.php:294
+#: views/edit-album.php:359
+msgid "Enter your Title"
+msgstr "عنوان خود را وارد کنید"
+
+#: lib/add-new-album-class.php:48 views/edit-album.php:299
+#: views/edit-album.php:364
+msgid "Enter your Description "
+msgstr "توضیحات خود را وارد کنید"
+
+#: lib/add-new-album-class.php:50 views/edit-album.php:305
+#: views/edit-album.php:370
+msgid "Enter your Tags"
+msgstr "برچسب های خود را وارد کنید"
+
+#: lib/add-new-album-class.php:54 views/edit-album.php:391
+msgid "Delete Image"
+msgstr "حذف عکس"
+
+#: lib/gallery-bank-class.php:15 lib/gallery-bank-class.php:30
+#: lib/gallery-bank-class.php:45 views/header.php:141
+msgid "Gallery Bank"
+msgstr "بانک گالری"
+
+#: lib/gallery-bank-class.php:332
+msgid "Add Gallery using Gallery Bank"
+msgstr "اضافه کردن گالری با بانک گالری"
+
+#: views/album-preview.php:31
+msgid "Album Preview"
+msgstr "پیشنمایش آلبوم"
+
+#: views/album-preview.php:34 views/album-sorting.php:158
+#: views/edit-album.php:161 views/edit-album.php:415
+#: views/images-sorting.php:202 views/purchase_pro_version.php:38
+#: views/settings.php:279 views/shortcode.php:33
+msgid "Back to Albums"
+msgstr "بازگشت به آلبوم ها"
+
+#: views/album-preview.php:52 views/album-sorting.php:195
+#: views/images-sorting.php:244
+msgid "Please Choose"
+msgstr "لطفا انتخاب کنید"
+
+#: views/album-sorting.php:154
+msgid "Re-Order Albums"
+msgstr "بازچینش آلبوم ها"
+
+#: views/album-sorting.php:160 views/images-sorting.php:204
+msgid "Update Order"
+msgstr "به روز رسانی چینش"
+
+#: views/album-sorting.php:163 views/images-sorting.php:207
+msgid "Sorting Order has been updated."
+msgstr "مرتب سازی چینش به روزرسانی شد."
+
+#: views/album-sorting.php:275 views/dashboard.php:302 views/dashboard.php:306
+#: views/dashboard.php:310 views/edit-album.php:612 views/edit-album.php:628
+#: views/images-sorting.php:308
+msgid "This feature is only available in Paid Premium Version!"
+msgstr "این ویژگی فقط در نسخه های پرمیوم فعال میباشد!"
+
+#: views/dashboard.php:118 views/shortcode.php:29
+msgid "Gallery Bank Short-Codes"
+msgstr "شورتکد های بانک گالری"
+
+#: views/dashboard.php:135
+msgid "Delete All Albums"
+msgstr "حذف تمام آلبوم ها"
+
+#: views/dashboard.php:136
+msgid "Purge Images & Albums"
+msgstr "پاک سازی عکس و آلبوم ها"
+
+#: views/dashboard.php:137
+msgid "Restore Factory Settings"
+msgstr "بازگردانی به تنظیمات اولیه"
+
+#: views/dashboard.php:144
+msgid "Existing Albums Overview"
+msgstr "خلاصه آلبوم های موجود"
+
+#: views/dashboard.php:150 views/edit-album.php:253
+msgid "Thumbnail"
+msgstr "بندانگشتی"
+
+#: views/dashboard.php:151
+msgid "Title"
+msgstr "عنوان"
+
+#: views/dashboard.php:152
+msgid "Total Images"
+msgstr "تمامی عکس ها"
+
+#: views/dashboard.php:153
+msgid "Date"
+msgstr "تاریخ"
+
+#: views/dashboard.php:218
+msgid "Edit Album"
+msgstr "ویرایش آلبوم"
+
+#: views/dashboard.php:223 views/images-sorting.php:198
+msgid "Re-Order Images"
+msgstr "بازچینش عکس ها"
+
+#: views/dashboard.php:228
+msgid "Preview Album"
+msgstr "پیشنمایش آلبوم"
+
+#: views/dashboard.php:233
+msgid "Delete Album"
+msgstr "حذف آلبوم"
+
+#: views/dashboard.php:289
+msgid "Are you sure you want to delete this Album?"
+msgstr "آیا مطمئنید میخواهید این آلبوم را حذف کنید؟"
+
+#: views/edit-album.php:158
+msgid "Album"
+msgstr "آلبوم"
+
+#: views/edit-album.php:162 views/edit-album.php:414
+msgid "Save Album"
+msgstr "ذخیره آلبوم"
+
+#: views/edit-album.php:166
+msgid "Album Saved. Kindly wait for the redirect to happen."
+msgstr "آلبوم ذخیره شد.منتظر باشید تا منتقل شوید."
+
+#: views/edit-album.php:173
+msgid "Album Details"
+msgstr "اطلاعات آلبوم"
+
+#: views/edit-album.php:177
+msgid "Album Title"
+msgstr "عنوان آلبوم"
+
+#: views/edit-album.php:182
+msgid "Enter your Album Title"
+msgstr "عنوان آلبوم خود را وارد کنید"
+
+#: views/edit-album.php:189
+msgid "Description"
+msgstr "توضیحات"
+
+#: views/edit-album.php:203
+msgid "Upload Images"
+msgstr "آپلود عکس ها"
+
+#: views/edit-album.php:206
+msgid "Your browser doesn\"t have Flash, Silverlight or HTML5 support."
+msgstr "مرورگر شما فلش ، سیلورلایت یا HTML5 را پشتیبانی نمیکند."
+
+#: views/edit-album.php:213
+msgid "Upload Videos"
+msgstr "آپلود ویدئو ها"
+
+#: views/edit-album.php:214 views/edit-album.php:260 views/settings.php:288
+#: views/settings.php:504 views/settings.php:734 views/settings.php:845
+#: views/settings.php:944 views/settings.php:1266 views/settings.php:1382
+#: views/settings.php:1433 views/settings.php:1485
+msgid " (Available in Premium Versions)"
+msgstr "(فعال در نسخه های پرمیوم)"
+
+#: views/edit-album.php:219
+msgid "Video Url"
+msgstr "آدرس ویدئو"
+
+#: views/edit-album.php:223
+msgid "Enter your Video Url"
+msgstr "آدرس ویدئو را وارد کنید"
+
+#: views/edit-album.php:229
+msgid "Upload Video"
+msgstr "آپلود ویدئو"
+
+#: views/edit-album.php:240
+msgid "Your Gallery Bank Album"
+msgstr "آلبوم بانک گالری"
+
+#: views/edit-album.php:250
+msgid "Delete"
+msgstr "حذف"
+
+#: views/edit-album.php:256
+msgid "Title & Description"
+msgstr "عنوان و توضیحات"
+
+#: views/edit-album.php:259
+msgid "Tags (comma separated list)"
+msgstr "برچسب ها (با , جدا کنید)"
+
+#: views/edit-album.php:263
+msgid "Url to Redirect on click of an Image"
+msgstr "آدرس انتقال در هنگام کلیک روی عکسک"
+
+#: views/edit-album.php:315
+msgid "Delete Video"
+msgstr "حذف ویدئو"
+
+#: views/edit-album.php:599
+msgid "Are you sure you want to delete this Image?"
+msgstr "آیا مطمئن هستید که میخواهید این عکس را حذف کنید؟"
+
+#: views/gallery-bank-system-report.php:32
+msgid "Get System Report"
+msgstr "گزارش سیستم"
+
+#: views/gallery-bank-system-report.php:36
+msgid "Close System Report"
+msgstr "بستن گزارش سیستم"
+
+#: views/gallery-bank-system-report.php:132
+msgid "Default"
+msgstr "پیشفرض"
+
+#: views/header.php:18
+msgid "Get Started"
+msgstr "شروع"
+
+#: views/header.php:21
+msgid "Watch Gallery Video!"
+msgstr "تماشای گالری ویدئو!"
+
+#: views/header.php:25
+msgid "read documentation here"
+msgstr "خواندن اسناد"
+
+#: views/header.php:30
+msgid "Go Premium"
+msgstr "خرید پرمیوم"
+
+#: views/header.php:34
+msgid "Features"
+msgstr "ویژگی ها"
+
+#: views/header.php:39
+msgid "Online Demos"
+msgstr "دموهای آنلاین"
+
+#: views/header.php:44
+msgid "Premium Pricing Plans"
+msgstr "قیمت های نسخه های پرمیوم"
+
+#: views/header.php:51
+msgid "Knowledge Base"
+msgstr "مرکز آموزش"
+
+#: views/header.php:56
+msgid "Support Forum"
+msgstr "انجمن پشتیبانی"
+
+#: views/header.php:61
+msgid "FAQ's"
+msgstr "سوالات متداول"
+
+#: views/header.php:66
+msgid "Detailed Features"
+msgstr "ویژگی های معرفی شده"
+
+#: views/header.php:72
+msgid "More Actions"
+msgstr "عملیات های بیشتر"
+
+#: views/header.php:76
+msgid "Plugin Customization"
+msgstr "شخصی سازی پلاگین"
+
+#: views/purchase_pro_version.php:43
+msgid "WP Gallery Bank is an one time Investment. Its Worth it!"
+msgstr "بانک گالری وردپرس سرمایه گذاری یکباره است. ارزشش رو دار !"
+
+#: views/settings.php:280
+msgid "Update Settings"
+msgstr "به روزرسانی تنظیمات"
+
+#: views/settings.php:287
+msgid "Thumbnail Settings"
+msgstr "تنظیمات بندانگشتی"
+
+#: views/settings.php:299
+msgid "Thumbnail Size"
+msgstr "اندازه بندانگشتی"
+
+#: views/settings.php:306 views/settings.php:314 views/settings.php:522
+#: views/settings.php:530
+msgid "Original"
+msgstr "اصلی"
+
+#: views/settings.php:309 views/settings.php:317 views/settings.php:525
+#: views/settings.php:533
+msgid "Custom"
+msgstr "سفارشی"
+
+#: views/settings.php:326 views/settings.php:542
+msgid "Width"
+msgstr "عرض"
+
+#: views/settings.php:336 views/settings.php:552
+msgid "Height"
+msgstr "ارتفاع"
+
+#: views/settings.php:348 views/settings.php:563 views/settings.php:985
+msgid "Opacity"
+msgstr "تاری"
+
+#: views/settings.php:360 views/settings.php:575 views/settings.php:996
+msgid "Border Size"
+msgstr "اندازه حاشیه"
+
+#: views/settings.php:371 views/settings.php:587 views/settings.php:1007
+msgid "Border Radius"
+msgstr "شعاع حاشیه"
+
+#: views/settings.php:382 views/settings.php:599 views/settings.php:1032
+msgid "Border Color"
+msgstr "رنگ حاشیه"
+
+#: views/settings.php:396
+msgid "Margin Between Images"
+msgstr "فاصله بین دو عکس"
+
+#: views/settings.php:406 views/settings.php:633 views/settings.php:1018
+msgid "Text Color"
+msgstr "رنگ نوشته"
+
+#: views/settings.php:420 views/settings.php:650 views/settings.php:1092
+msgid "Text-Align"
+msgstr "جهت گیری نوشته"
+
+#: views/settings.php:434 views/settings.php:664 views/settings.php:801
+#: views/settings.php:1106 views/settings.php:1314
+msgid "Font-Family"
+msgstr "خانواده فونت"
+
+#: views/settings.php:457 views/settings.php:687 views/settings.php:1129
+msgid "Heading Font-Size"
+msgstr "اندازه فونت سرتیتر"
+
+#: views/settings.php:474 views/settings.php:704 views/settings.php:1146
+msgid "Text Font-Size"
+msgstr "اندازه فونت متن"
+
+#: views/settings.php:491 views/settings.php:721
+msgid "Description Length"
+msgstr "طول توضیحات"
+
+#: views/settings.php:503
+msgid "Album Cover Settings"
+msgstr "تنظیمات کاور آلبوم"
+
+#: views/settings.php:515
+msgid "Cover Size"
+msgstr "سایز کاور"
+
+#: views/settings.php:613
+msgid "Margin Between Albums"
+msgstr "فاصله بین آلبوم ها"
+
+#: views/settings.php:623
+msgid "Text for Album Click"
+msgstr "نوشته کلیک روی آلبوم ها"
+
+#: views/settings.php:733
+msgid "Filter Settings"
+msgstr "تنظیمات فیلتر"
+
+#: views/settings.php:745
+msgid "Filters"
+msgstr "فیلتر ها"
+
+#: views/settings.php:752 views/settings.php:760 views/settings.php:1170
+#: views/settings.php:1178 views/settings.php:1196 views/settings.php:1203
+#: views/settings.php:1221 views/settings.php:1228 views/settings.php:1245
+#: views/settings.php:1252 views/settings.php:1360 views/settings.php:1367
+#: views/settings.php:1400 views/settings.php:1408 views/settings.php:1451
+#: views/settings.php:1459
+msgid "Enable"
+msgstr "فعال سازی"
+
+#: views/settings.php:755 views/settings.php:763 views/settings.php:1173
+#: views/settings.php:1181 views/settings.php:1198 views/settings.php:1206
+#: views/settings.php:1223 views/settings.php:1230 views/settings.php:1247
+#: views/settings.php:1254 views/settings.php:1362 views/settings.php:1370
+#: views/settings.php:1403 views/settings.php:1411 views/settings.php:1454
+#: views/settings.php:1462
+msgid "Disable"
+msgstr "غیرفعال سازی"
+
+#: views/settings.php:773
+msgid "Filter Color"
+msgstr "فیلتر رنگ"
+
+#: views/settings.php:787
+msgid "Filter Text Color"
+msgstr "فیلتر رنگ نوشته"
+
+#: views/settings.php:824 views/settings.php:1337
+msgid "Font-Size"
+msgstr "اندازه فونت"
+
+#: views/settings.php:844
+msgid "Roles & Capabilities"
+msgstr "نقش ها و قابلیت ها"
+
+#: views/settings.php:856
+msgid "Privileges for Admin"
+msgstr "دسترسی ها ادمین"
+
+#: views/settings.php:860 views/settings.php:876 views/settings.php:892
+#: views/settings.php:909 views/settings.php:927
+msgid "Full Control"
+msgstr "کنترل کامل"
+
+#: views/settings.php:863 views/settings.php:879 views/settings.php:895
+#: views/settings.php:912 views/settings.php:930
+msgid "Read"
+msgstr "خواندن"
+
+#: views/settings.php:866 views/settings.php:882 views/settings.php:898
+#: views/settings.php:915 views/settings.php:933
+msgid "Write"
+msgstr "نوشتن"
+
+#: views/settings.php:872
+msgid "Privileges for Editor"
+msgstr "دسترسی ها ویرایشگر"
+
+#: views/settings.php:888
+msgid "Privileges for Author"
+msgstr "دسترسی های نویسنده"
+
+#: views/settings.php:904
+msgid "Privileges for Contributor"
+msgstr "دسترسی های مشارکت کننده"
+
+#: views/settings.php:921
+msgid "Privileges for Subscriber"
+msgstr "دسترسی های مشترک"
+
+#: views/settings.php:943
+msgid "Lightbox Settings"
+msgstr "تنظیمات لایت باکس"
+
+#: views/settings.php:955
+msgid "Lightbox Type"
+msgstr "نوع لایت باکس"
+
+#: views/settings.php:1046
+msgid "Inline Background"
+msgstr "پس زمینه بین خطی"
+
+#: views/settings.php:1060
+msgid "Overlay Background"
+msgstr "پوشش پس زمینه"
+
+#: views/settings.php:1074
+msgid "Fade In Time"
+msgstr "زمان شروع محو شدن"
+
+#: views/settings.php:1083
+msgid "Fade Out Time"
+msgstr "زمان پایان محو شدن"
+
+#: views/settings.php:1163
+msgid "Facebook Comments"
+msgstr "نظرات فیسبوک"
+
+#: views/settings.php:1190
+msgid "Social Sharing"
+msgstr "اشتراک گذاری اجتماعی"
+
+#: views/settings.php:1215
+msgid "Image Title"
+msgstr "عنوان عکس"
+
+#: views/settings.php:1239
+msgid "Image Description"
+msgstr "توضیحات عکس"
+
+#: views/settings.php:1265
+msgid "Front - End Layout Settings"
+msgstr "جلو - تنظیمات طرح بندی پایان"
+
+#: views/settings.php:1277
+msgid "Text for Back Button"
+msgstr "نوشته برای دکمه برگشت"
+
+#: views/settings.php:1287
+msgid "Button Color"
+msgstr "رنگ دکمه"
+
+#: views/settings.php:1300
+msgid "Button Text Color"
+msgstr "رنگ نوشته دکمه"
+
+#: views/settings.php:1354
+msgid "Album Seperator"
+msgstr "جدا کننده آلبوم"
+
+#: views/settings.php:1381
+msgid "Pagination Settings for Images"
+msgstr "صفحه بندی عکس ها"
+
+#: views/settings.php:1393
+msgid "Paging"
+msgstr "صفحه بندی"
+
+#: views/settings.php:1420
+msgid "No. of Images Per Page "
+msgstr "تعداد عکس ها در هر صفحه"
+
+#: views/settings.php:1432
+msgid "Slide Show Settings"
+msgstr "تنظیمات اسلایدشو"
+
+#: views/settings.php:1444
+msgid "Auto Play"
+msgstr "پخش اتوماتیک"
+
+#: views/settings.php:1471
+msgid "Interval"
+msgstr "فاصله"
+
+#: views/settings.php:1484
+msgid "Language Direction Settings"
+msgstr "تنظیمات جهت زبان"
+
+#: views/settings.php:1496
+msgid "Language Direction"
+msgstr "جهت زبان"
+
+#: views/settings.php:1653
+msgid "This Feature is only available in Paid Premium Version!"
+msgstr "این ویژگی فقط در نسخه های پرمیوم فعال است!"

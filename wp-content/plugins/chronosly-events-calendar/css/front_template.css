@@ -1,0 +1,84 @@
+
+
+
+/*  FRONT TEMPLATE */
+
+div.chronosly * {}
+div.chronosly .ev-data:not(.place_description):not(.event_description):not(.organizer_description):not(.category_desc) a{color:inherit;font-size:inherit!important;display:inline-block;}
+div.chronosly * {box-sizing: border-box;}
+div.ev-box{min-height:40px;position:relative;}
+.ch-front div.ev-box{min-height:35px;position:relative;}
+.ev-box div.ev-item .ev-data img{width:auto;}
+.ev-box div.ev-item .ev-data a{text-decoration:inherit;color:inherit;}
+.ev-box div.ev-item .ev-data p, .ev-box div.ev-item.custom_image .ev-data img, .ev-box div.ev-item.place_image .ev-data img,.ev-box div.ev-item.organizer_logo .ev-data img, .ev-box div.ev-item.featured_image .ev-data img,  .ev-box div.ev-item[class*='image'] a{width:100%;font-size:inherit;display:inline-block;}
+div.ev-box,.ev-box div.ev-item,.ev-box div.cont-box{float:left;width:100%;}
+.ev-box div.ev-item{list-style:none!important;display:block!important;padding:4px;}
+.ev-box div.ev-item .label{float:left;list-style:none!important;width:auto;display:block!important;}
+span.ch-cont{display:inline-block;}
+.ev-box.ch-hidden{display:none;}
+div.chronosly {margin:20px;margin-bottom:40px;clear:both;width:94%;margin:auto;}
+div.chronosly div.ch-clear{clear:both;}
+
+div.pagination{text-align:center;}
+div.ch-header .icon-calendar{display:block;float:right;}
+div.ch-header .icon-calendar:before {
+
+    font-size:32px;
+    color:black;
+    display:inline-block;
+
+}
+
+.ch-header .title{font-size:28px;line-height:27px;display:inline-block;text-transform:uppercase;}
+
+.ch-header .back{font-size:24px;display:inline-block;text-transform:uppercase;color:black;}
+
+.ch-spinner{
+    position: relative;
+    margin:40px;
+    top: 50%;
+    left: 50%;
+    width:40px;
+    height:40px;
+    border-radius: 7px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    background:#F1F2F2 url(./img/spinner.gif) no-repeat center center;
+    background-size: 70%;
+    z-index:10000000;
+    border:1px solid #CBCBCB;
+}
+
+span.ch-cont,span.before, span.after{display:inline-block;}
+a{cursor:pointer;}
+
+@media (max-width: 643px) and (min-width: 320px) and (orientation:portrait) {
+    .ev-box div.ev-item .ev-data p, .ev-box div.ev-item .ev-data img, .ev-box div.ev-item .ev-data iframe{width:100%;height:auto;font-size:inherit;}
+
+}
+
+.tickets ul {margin:4px;}
+.tickets ul li{display: inline-block;list-style: none;margin:5px;width:5%;text-align:center;}
+.tickets .titles li{font-weight: bold;border-bottom:1px solid;}
+.tickets li.title{width:20%;}
+.tickets li.title .fa-ticket{font-size:14px;padding:5px;color:#939598;}
+/*.tickets li.link{width:16%;}
+*/
+.chronosly .tickets li.price{width:7%;}
+.chronosly .tickets li.capacity{width:7%;}
+.chronosly .tickets li.min{width:9%;}
+.chronosly .tickets li.max{width:9%;}
+.chronosly .tickets li.start{width:11%;}
+.chronosly .tickets li.end{width:11%;}
+.chronosly .tickets li.notes_title{font-weight: bold;font-size: 11px;}
+.chronosly .tickets li.notes{font-size: 11px;}
+.chronosly .tickets li a.buy_ticket{padding:6px;text-align: center;color:white!important;border-radius: 7px;font-weight: bold;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;}
+.chronosly .tickets .hide{display:none;}
+/* remove base defaults like header on posts */
+body.chronosly:not(".search") .entry-header, body.chronosly:not(".search") .attachment-post-thumbnail {display:none!important;}
+.chronosly div.hide{display:none!important;}
+
+.chronosly-content-block {clear:both}
+.chronosly-content-block .lorem{display:none!important;}

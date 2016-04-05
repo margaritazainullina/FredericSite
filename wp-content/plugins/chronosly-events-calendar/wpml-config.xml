@@ -1,0 +1,60 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">dad1</custom-field>
+        <custom-field action="copy">dad2</custom-field>
+        <custom-field action="copy">dad3</custom-field>
+        <custom-field action="copy">dad4</custom-field>
+        <custom-field action="copy">dad5</custom-field>
+        <custom-field action="copy">dad6</custom-field>
+        <custom-field action="copy">dad7</custom-field>
+        <custom-field action="copy">dad8</custom-field>
+        <custom-field action="copy">dad9</custom-field>
+        <custom-field action="copy">dad10</custom-field>
+        <custom-field action="copy">dad11</custom-field>
+        <custom-field action="copy">dad12</custom-field>
+        <custom-field action="copy">description</custom-field>	
+        <custom-field action="copy">ev-end_count</custom-field>	
+        <custom-field action="copy">ev-from</custom-field>	
+        <custom-field action="copy">ev-from-h</custom-field>	
+        <custom-field action="copy">ev-from-m</custom-field>	
+        <custom-field action="copy">ev-repeat</custom-field>	
+        <custom-field action="copy">ev-repeat-every</custom-field>	
+        <custom-field action="copy">ev-repeat-option</custom-field>	
+        <custom-field action="copy">ev-to</custom-field>	
+        <custom-field action="copy">ev-to-h</custom-field>	
+        <custom-field action="copy">ev-to-m</custom-field>	
+        <custom-field action="copy">ev-until</custom-field>	
+        <custom-field action="copy">ev-end_count</custom-field>	
+        <custom-field action="copy">featured</custom-field>	
+        <custom-field action="copy">order</custom-field>	
+        <custom-field action="copy">organizer</custom-field>	
+        <custom-field action="copy">places</custom-field>	
+        <custom-field action="copy">tickets</custom-field>	
+        <custom-field action="copy">evo_mail</custom-field>	
+        <custom-field action="copy">evo_phone</custom-field>	
+        <custom-field action="copy">evo_web</custom-field>	
+		<custom-field action="copy">evp_mail</custom-field>	
+        <custom-field action="copy">evp_phone</custom-field>	
+        <custom-field action="copy">evp_web</custom-field>	
+        <custom-field action="copy">evp_dir</custom-field>	
+        <custom-field action="copy">evp_city</custom-field>	
+        <custom-field action="copy">evp_country</custom-field>	
+        <custom-field action="copy">evp_state</custom-field>	
+        <custom-field action="copy">evp_pc</custom-field>	
+
+	
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">chronosly</custom-type>
+        <custom-type translate="1">chronosly_organizer</custom-type>
+        <custom-type translate="1">chronosly_places</custom-type>
+        <custom-type translate="1">chronosly_calendar</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">chronosly_category</taxonomy>
+        <taxonomy translate="1">chronosly_tag</taxonomy>
+    </taxonomies>    
+   
+</wpml-config>
+
+

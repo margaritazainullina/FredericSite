@@ -1,0 +1,46 @@
+
+<div  base="default" class="chronosly perfil2 ch-default  ch-front ch-dad5 ev-{{id}} {{size}} ">
+
+	<div class="ev-box both " style="width:98.96640826873386%;clear:none;float:left;margin-bottom:20px;">
+
+         <div class='ev-item start_date'  style='height:auto;width:auto;clear:none;float:left;font-size:16px;line-height:20px;color:#cat-color;'>
+            <div class='ev-data start_date'>
+                  {{start_date | time_format d/m}}
+              </div>
+         
+             <div class='ch-clear'></div>
+         </div>
+         <div class='ev-item event_title'  style='height:auto;width:81.06734434561626%;clear:none;float:left;font-size:16px;line-height:20px;text-transform:uppercase;color:#cat-color;'>
+            <div class='ev-data event_title'>
+                           <a href='{{event_link}}' class='ch-readmore'>{{event_title}}</a>
+              </div>
+         
+             <div class='ch-clear'></div>
+         </div>
+         <div class='ev-item cont_box'   style='float:none;clear:both;'>
+
+         <div class='sortable'>
+            
+         <div class='ev-item full_time'  style='height:auto;width:auto;'>
+            <div class='ev-data full_time'>
+                  {{full_time | time_format }}
+              </div>
+         
+             <div class='ch-clear'></div>
+         </div>
+         <div class='ev-item ticket_price'  style='clear:none;float:left;height:auto;width:auto;'>
+            <div class='ev-data ticket_price'>
+               {{ticket_price | id 1}}
+              </div>
+         
+             <div class='ch-clear'></div>
+         </div>
+         </div>
+
+             <div class='ch-clear'></div>
+         </div>
+		<div class="ch-clear"></div>
+	</div>
+			
+    <div style="clear:both;"></div>
+</div>
